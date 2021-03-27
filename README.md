@@ -1,5 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning Python
 🌱 I’m currently learning Django
+🌱 I’m currently learning SQLite3
 
 <!--
 **KJWilliamson/kjwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
