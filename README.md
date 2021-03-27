@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python <br />
 🌱 I’m currently learning Django
 🌱 I’m currently learning SQLite3
 
