@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I just graduated from Kenzie Academy where I got my Ful Stack Web Deveopment Certificate.
+I just graduated from Kenzie Academy where I got my Full Stack Web Deveopment Certificate.
 At Kenzie I studied:
 
 🌱 HTML <br />
