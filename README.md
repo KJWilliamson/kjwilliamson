@@ -1,8 +1,21 @@
 ### Hi there 👋
-🌱 I’m currently learning Python <br />
-🌱 I’m currently learning Django <br />
-🌱 I’m currently learning SQLite3
 
+I just graduated from Kenzie Academy where I got my Ful Stack Web Deveopment Certificate.
+At Kenzie I studied:
+
+🌱 HTML <br />
+🌱 CSS <br />
+🌱 Javascript <br />
+🌱 React <br />
+🌱 MongoDB <br />
+🌱 Express <br />
+🌱 Node <br />
+🌱 Python <br />
+🌱 Django <br />
+🌱 SQLite3
+
+
+🔭 I’m currently working on my portfolio website and continuing learning while searching for a job or internship
 <!--
 **KJWilliamson/kjwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
