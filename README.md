@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I just graduated from Kenzie Academy where I got my Full Stack Web Deveopment Certificate.
-At Kenzie I studied:
+Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate.
+Studied the following:
 
 🌱 HTML <br />
 🌱 CSS <br />
