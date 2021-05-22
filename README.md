@@ -13,9 +13,15 @@ Studied the following:
 🌱 Python <br />
 🌱 Django <br />
 🌱 SQLite3
+<hr>
 
-🎨 <a href="https://codepen.io/sharkcat73">Codepen</a>
 🔭 I’m currently working on my portfolio website and continuing learning while searching for a job or internship
+<hr>
+
+🎨 <a href="https://codepen.io/sharkcat73">Codepen</a> |
+
+
+
 <!--
 **KJWilliamson/kjwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
