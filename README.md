@@ -20,6 +20,10 @@ Studied the following:
 
 🎨 <a href="https://codepen.io/sharkcat73">Codepen</a> |
 
+<hr>
+FUN STUFF
+<a href="https://kjwilliamson.github.io/maze/">MAZE</a> |
+
 
 
 <!--
