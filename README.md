@@ -23,6 +23,7 @@ Studied the following:
 <hr>
 FUN STUFF
 <br />
+<br />
 
 <a href="https://kjwilliamson.github.io/maze/">MAZE</a> |
 
