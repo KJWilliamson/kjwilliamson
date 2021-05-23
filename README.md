@@ -29,7 +29,7 @@ Studied the following:
 Find me on the web 🌎
 <br />
 <br />
-🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | 
+🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://gitlab.com/kamelaw"> Gitlab</a> | 
 
 <hr>
 FUN STUFF
