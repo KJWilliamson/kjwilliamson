@@ -7,7 +7,7 @@
 Studied the following:
 
 🌱 HTML <br />
-🌵 CSS <br />
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>CSS <br />
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="20" style="vertical-align:top; margin:4px">Javascript <br />
 🌵 React <br />
 🌱 MongoDB <br />
