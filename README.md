@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson)
+
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️.
 Studied the following:
 
