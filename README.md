@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Spotify Playing 🎧
+
+[<img src="https://now-playing-kami63116.vercel.app/api/spotify-playing" Spotify Playing" width="350" />](https://open.spotify.com/user/kami63116)
+
 <a href="https://twitter.com/curiousdev_">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/curiousdev_?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
