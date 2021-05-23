@@ -1,31 +1,31 @@
 ### Hi there 👋
 
-Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate.
+🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️.
 Studied the following:
 
 🌱 HTML <br />
-🌱 CSS <br />
+🌵 CSS <br />
 🌱 Javascript <br />
-🌱 React <br />
+🌵 React <br />
 🌱 MongoDB <br />
-🌱 Express <br />
+🌵 Express <br />
 🌱 Node <br />
-🌱 Python <br />
-🌱 Django <br />
-🌱 SQLite3
+🐍 Python <br />
+🐍 Django <br />
+🌵 SQLite3
 <hr>
 
 🔭 I’m currently working on my portfolio website and continuing learning while searching for a job or internship
 <hr>
 
-🎨 🖼️ <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻<a href="https://replit.com/@KJWilliamson">REPLIT</a>
+🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a>
 
 <hr>
 FUN STUFF
 <br />
 <br />
 
-<a href="https://kjwilliamson.github.io/maze/">MAZE</a> | <a href="https://kjwilliamson.github.io/js-maze/">MAZE 2</a> | <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a> | <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | <a href="https://kjwilliamson.github.io/towerOfHanoi/"> TOWER OF HANOI</a> | <a href="https://kamelaw.gitlab.io/magic8ball/">MAGIC 8 BALL</a>🔮 
+🎪 <a href="https://kjwilliamson.github.io/maze/">MAZE</a> | 👻 <a href="https://kjwilliamson.github.io/js-maze/">MAZE 2</a> | <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a> | <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | <a href="https://kjwilliamson.github.io/towerOfHanoi/"> TOWER OF HANOI</a> | 🎱 <a href="https://kamelaw.gitlab.io/magic8ball/">MAGIC 8 BALL</a>🔮 
 
 
 
