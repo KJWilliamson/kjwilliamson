@@ -15,7 +15,7 @@ Studied the following:
  <a href="https://github.com/search?q=user%3AKJWilliamson+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AKJWilliamson+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <br />
-   
+ [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&theme=radical) 
