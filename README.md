@@ -41,7 +41,9 @@ FUN STUFF
 
 🎪 <a href="https://kjwilliamson.github.io/maze/">MAZE</a> | 👻 <a href="https://kjwilliamson.github.io/js-maze/">MAZE 2</a> | <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a> | <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | <a href="https://kjwilliamson.github.io/towerOfHanoi/"> TOWER OF HANOI</a> | 🎱 <a href="https://kamelaw.gitlab.io/magic8ball/">MAGIC 8 BALL</a>🔮 
 
+<hr>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=tokyonight)
 
 <!--
 **KJWilliamson/kjwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
