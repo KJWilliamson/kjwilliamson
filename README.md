@@ -43,7 +43,7 @@ FUN STUFF
 
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=radical)
 
 <!--
 **KJWilliamson/kjwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
