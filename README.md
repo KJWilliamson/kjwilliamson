@@ -25,7 +25,7 @@ FUN STUFF
 <br />
 <br />
 
-<a href="https://kjwilliamson.github.io/maze/">MAZE</a> | <a href="https://kjwilliamson.github.io/js-maze/">MAZE 2</a>
+<a href="https://kjwilliamson.github.io/maze/">MAZE</a> | <a href="https://kjwilliamson.github.io/js-maze/">MAZE 2</a> | <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a>
 
 
 
