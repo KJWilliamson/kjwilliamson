@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Spotify Playing 🎧
-<iframe src="https://open.spotify.com/embed/playlist/2ugsW2yx4rYYcOP1K6B7qp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p>
+    <iframe src="https://open.spotify.com/embed/playlist/2ugsW2yx4rYYcOP1K6B7qp" width="100" height="180" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    </p>
 
 
 <a href="https://twitter.com/curiousdev_">
