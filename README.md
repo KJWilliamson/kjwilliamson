@@ -5,7 +5,7 @@ Studied the following:
 
 🌱 HTML <br />
 🌵 CSS <br />
-🌱 Javascript <br />
+<i class="fab fa-js"></i>Javascript <br />
 🌵 React <br />
 🌱 MongoDB <br />
 🌵 Express <br />
