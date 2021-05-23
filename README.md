@@ -5,7 +5,7 @@ Studied the following:
 
 🌱 HTML <br />
 🌵 CSS <br />
-<i class="fab fa-js"></i>Javascript <br />
+   Javascript <br />
 🌵 React <br />
 🌱 MongoDB <br />
 🌵 Express <br />
@@ -18,7 +18,9 @@ Studied the following:
 🔭 I’m currently working on my portfolio website and continuing learning while searching for a job or internship
 <hr>
 
-🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a>
+Find me on the web 🌎
+<br />
+🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | 
 
 <hr>
 FUN STUFF
