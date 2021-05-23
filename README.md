@@ -14,11 +14,19 @@ Studied the following:
 🐍 Django <br />
 🌵 SQLite3
 <hr>
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+
 
 🔭 I’m currently working on my portfolio website and continuing learning while searching for a job or internship
 <hr>
 
 Find me on the web 🌎
+<br />
 <br />
 🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | 
 
