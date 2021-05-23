@@ -15,17 +15,7 @@ Studied the following:
  <a href="https://github.com/search?q=user%3AKJWilliamson+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AKJWilliamson+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <br />
- <img src="https://raw.githubusercontent.com/KJWilliamson/KJWilliamson/master/assests/react-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/KJWilliamson/KJWilliamson/master/assests/nodejs-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/KJWilliamson/KJWilliamson/master/assests/express-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/KJWilliamson/KJWilliamson/master/assests/mongodb-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/KJWilliamson/KJWilliamson/master/assests/javascript-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/KJWilliamson/KJWilliamson/master/assests/css3-original.svg" height="auto" width="40">
+ 
 
 </p>
 
