@@ -71,8 +71,7 @@ Studied the following:
 Find me on the web 🌎
 <br />
 <br />
-🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://gitlab.com/kamelaw"> Gitlab</a> | <img alt="Twitter" src="https://img.shields.io/badge/<curiousdev_>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> | 
-
+🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://gitlab.com/kamelaw"> Gitlab</a> | 
 <hr>
 FUN STUFF
 <br />
