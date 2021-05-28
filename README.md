@@ -10,8 +10,8 @@ Spotify <a href="https://open.spotify.com/playlist/2TGwPrLvkH3SeMzGwkP7uk">Playi
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
 
 
-🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️.
-Studied the following:
+🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
+I have used and studied the following:
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
