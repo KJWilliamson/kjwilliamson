@@ -87,7 +87,7 @@ I have used and studied the following:
 Find me on the web 🌎
 <br />
 <br />
-🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | 
+🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | <a href="https://kamelaw.gitlab.io/">A portfolio site on GitLab</a>
 <hr>
 FUN STUFF
 <br />
