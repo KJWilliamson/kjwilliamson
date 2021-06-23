@@ -11,7 +11,7 @@ Spotify <a href="https://open.spotify.com/playlist/5h3h27w6WJaKwmP74KT25V?si=232
 
 
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
-I have used and studied the following:
+I have used and studied and am comfortable with the following:
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
