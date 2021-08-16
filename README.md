@@ -81,7 +81,7 @@ I have used and studied and am comfortable with the following:
 <hr>
 
 
-🔭 I’m currently working on my portfolio website and continuing learning while searching for a job or internship
+🔭 I’m currently working on IBM Pre-apprenticeship Learning path for Software Engineer
 <hr>
 
 Find me on the web 🌎
