@@ -88,7 +88,7 @@ Find me on the web 🌎
 <br />
 <br />
 🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | ⭐ <a href="https://kamelaw.gitlab.io/">A portfolio site on GitLab</a> | 🎈 <a href="https://kjwilliamson.github.io/">Github Portfolio Site</a> | 
-💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio site with Resume</a> 🧑‍🎓 | ✨ <a href="www.kamela.dev">Website</a> 
+💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio site with Resume</a> 🧑‍🎓 | ✨ <a href="https://kamela.dev">Website</a> 
 🖥️ 
 <hr>
 FUN STUFF
