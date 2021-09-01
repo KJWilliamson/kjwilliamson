@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Spotify <a href="https://open.spotify.com/playlist/2TGwPrLvkH3SeMzGwkP7uk">Playing 🎧</a>
+Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=c5d309aa16264d5b">Playing 🎧</a>
 
 
 
