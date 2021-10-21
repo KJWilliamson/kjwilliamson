@@ -4,7 +4,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=c5d
 
 
 
-<a href="https://twitter.com/curiousdev_">
+<a href="https://twitter.com/codeandkombucha">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/curiousdev_?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
