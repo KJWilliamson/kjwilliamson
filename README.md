@@ -81,7 +81,7 @@ I have used and studied and am comfortable with the following:
 <hr>
 
 
-🔭 I’m currently working on IBM Pre-apprenticeship Learning path for Software Engineer
+🔭 I’m almost finished with the IBM Pre-apprenticeship Learning path for Software Engineer. Working on the Agile part of the pre-apprenticeship right now.
 <hr>
 
 Find me on the web 🌎
