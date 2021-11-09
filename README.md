@@ -81,7 +81,7 @@ I have used these in projects with teams:
 <hr>
 
 
-🔭 I’m almost finished with the IBM Pre-apprenticeship Learning path for Software Engineer. Working on the Agile part of the pre-apprenticeship right now.
+🔭 On November 8th, 2021 I finished the IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and built a job board with flask. 
 <hr>
 
 Find me on the web 🌎
