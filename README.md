@@ -81,7 +81,7 @@ I have used these in projects with teams:
 <hr>
 
 
-🔭 On November 8th, 2021 I finished the IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and built a job board with flask. 
+🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and built a job board with flask. 
 <hr>
 
 Find me on the web 🌎
