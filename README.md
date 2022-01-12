@@ -80,7 +80,8 @@ I have used these in projects with teams:
 
 <hr>
 
-
+🌱 I’m currently reviewing Javascript and going through the FrontEnd Foxes Bootcamp where we will study HTML, CSS, Javascript, and Vue.
+<br />
 🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and built a job board with flask. 
 <hr>
 
@@ -112,7 +113,7 @@ FUN STUFF
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently reviewing Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
