@@ -9,6 +9,12 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=c5d
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
 
+<hr>
+
+🌱 I’m currently reviewing Javascript and going through the FrontEnd Foxes Bootcamp where we will study HTML, CSS, Javascript, and Vue.
+<br />
+🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and built a job board with flask. 
+<hr>
 
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
 I have used these in projects with teams:
@@ -78,11 +84,6 @@ I have used these in projects with teams:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&theme=radical) 
 
-<hr>
-
-🌱 I’m currently reviewing Javascript and going through the FrontEnd Foxes Bootcamp where we will study HTML, CSS, Javascript, and Vue.
-<br />
-🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and built a job board with flask. 
 <hr>
 
 Find me on the web 🌎
