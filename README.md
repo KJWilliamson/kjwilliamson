@@ -13,6 +13,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=c5d
 
 🌱 I’m currently reviewing Javascript and going through the FrontEnd Foxes Bootcamp where we will study HTML, CSS, Javascript, and Vue.
 <br />
+<hr>
 🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and built a job board with flask. 
 <hr>
 
