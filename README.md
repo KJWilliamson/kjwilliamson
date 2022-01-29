@@ -11,10 +11,10 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
 
 <hr>
 
-🌱 I’m currently reviewing Javascript and started going through the FrontEnd Foxes Bootcamp on January 10 2022 where we will study HTML, CSS, Javascript, and Vue.
+🌱 I’m currently reviewing Javascript and started going through the FrontEnd Foxes Bootcamp on January 10 2022 where we will study HTML, CSS, Javascript, and Vue. Program ends February 18, 2022
 <br />
 <hr>
-🌱 Currently going through Learn With Leon and learning Javascript Stack which started January 11 2022.
+🌱 Currently going through Learn With Leon and learning Javascript Stack which started January 11 2022 and ends in August 2022.
 <br />
 <hr>
 
