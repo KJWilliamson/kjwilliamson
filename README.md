@@ -108,7 +108,7 @@ FUN STUFF
 <br />
 <br />
 
-🎪 <a href="https://kjwilliamson.github.io/maze/">MAZE</a> | 👻 <a href="https://kjwilliamson.github.io/js-maze/">MAZE 2</a> | 📓 <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a> | 🔴 <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | 🧠 <a href="https://kjwilliamson.github.io/towerOfHanoi/"> TOWER OF HANOI</a> 
+🎪 <a href="https://kjwilliamson.github.io/maze/">MAZE</a> | 👻 <a href="https://kjwilliamson.github.io/js-maze/">MAZE 2</a> or <a href="https://javascript-halloween-maze.netlify.app/">Same Maze on Netlify</a> | 📓 <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a> | 🔴 <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | 🧠 <a href="https://kjwilliamson.github.io/towerOfHanoi/"> TOWER OF HANOI</a> 
 ⏳ | 🎱 <a href="https://kamelaw.gitlab.io/magic8ball/">MAGIC 8 BALL</a>🔮  | 
 🐈 <a href="https://kjwilliamson.github.io/hungry-cat/"> Hungry Cat</a> | <br >
 🍬 <a href="https://kjwilliamson.github.io/countdown-timer/">Countdown Until Halloween</a> 👻
