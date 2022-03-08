@@ -14,7 +14,7 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
 <br />
 <hr>
 
-🌱 Finished FrontEnd Foxes Bootcamp which started on January 10 2022 where we studied HTML, CSS, Javascript, and Vue. Program ended February 18, 2022
+🦊 Finished FrontEnd Foxes Bootcamp which started on January 10 2022 where we studied HTML, CSS, Javascript, and Vue. Program ended February 18, 2022
 <br />
 <hr>
 
