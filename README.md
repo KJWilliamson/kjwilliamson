@@ -14,11 +14,11 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
 <br />
 <hr>
 
-🦊 Finished FrontEnd Foxes Bootcamp which started on January 10 2022 where we studied HTML, CSS, Javascript, and Vue. Program ended February 18, 2022
+🦊 Finished FrontEnd Foxes Bootcamp which started on January 10 2022 where we studied HTML, CSS, Javascript, and a little bit of Vue. Program ended February 18, 2022
 <br />
 <hr>
 
-🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied python, java, and finished a job board built with flask. 
+🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied some python, java, and finished a job board built with flask that Pluralsight started. 
 <hr>
 
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
@@ -98,6 +98,7 @@ I have used these in projects with teams:
 Find me on the web 🌎
 <br />
 <br />
+<h2>Lots of silliness and some portfolios</h2>
 🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | 🎈 <a href="https://kjwilliamson.github.io/">Github Portfolio Site</a> | <br >
 
 💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio site with Resume</a> 🧑‍🎓 | ✨ <a href="https://www.kamela.dev/">Website</a> 🖥️ |
