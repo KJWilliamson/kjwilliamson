@@ -99,9 +99,7 @@ Find me on the web 🌎
 <br />
 <br />
 <h2>Lots of silliness and some portfolios</h2>
-🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | <a href="https://kjwilliamson.github.io/">Github Portfolio Site</a> | <br >
-
-💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio site with Resume</a> 🧑‍🎓 | ✨ <a href="https://www.kamela.dev/">Website</a> 🖥️ |
+🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | <a href="https://kjwilliamson.github.io/">Github Portfolio Site</a> | 💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio site with Resume</a> 🧑‍🎓 | ✨ <a href="https://www.kamela.dev/">Website</a> 🖥️ |
 <a href="https://www.polywork.com/kamelaw">Polywork</a> 👥 |
 
 <hr>
