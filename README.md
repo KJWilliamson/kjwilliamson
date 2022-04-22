@@ -106,7 +106,7 @@ FUN STUFF
 <br />
 <br />
 
-🎪 <a href="https://kjwilliamson.github.io/maze/">MAZE</a> | 👻 <a href="https://javascript-halloween-maze.netlify.app/">MAZE 2</a> | 📓 <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a> | 🔴 <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | 🧠 <a href="https://js-tower-of-hanoi.netlify.app/"> TOWER OF HANOI</a> 
+🎪 <a href="https://clown-maze.netlify.app/">MAZE</a> | 👻 <a href="https://javascript-halloween-maze.netlify.app/">MAZE 2</a> | 📓 <a href="https://kjwilliamson.github.io/js-todo/"> TODO</a> | 🔴 <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | 🧠 <a href="https://js-tower-of-hanoi.netlify.app/"> TOWER OF HANOI</a> 
 ⏳ | 🎱 <a href="https://kamelaw.gitlab.io/magic8ball/">MAGIC 8 BALL</a>🔮  | 
 🐈 <a href="https://kjwilliamson.github.io/hungry-cat/"> Hungry Cat</a> | 🦇🥀⚰️☠️🔪 <a href="https://favoritescarymovie.netlify.app/?">Favorite Scary Movie</a>🎃👻🦇🕷💀🌙🧟‍♀️🕸🧛🏻‍♂️⚰️ | 📚 <a href="https://random-banned-books.netlify.app/">Banned Book Cover Generator</a> 📚 | 📚📚 <a href="https://random-literary-image.netlify.app/">Random Literary Image Quote</a>📚 | 🦌 <a href="https://favorite-christmas-movies.netlify.app/">What's your favorite 🎄🎁 Christmas 🥛🍪 movie?</a> | 🍕<a href="https://pizza-silliness.netlify.app/">Favorite Pizza 🍕</a> | 🥠 <a href="https://js-fortunecookie.netlify.app/">Fortune Cookie</a> 🥠 | 📺 <a href="https://css-tv.netlify.app/">CSS TV</a> 📺 | 🔮 <a href="https://shake-magic-8-ball.netlify.app/">Shake the Magic 8 Ball</a> 
 <br >
