@@ -21,11 +21,11 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
 <br />
 <hr>
 
-🦊 Finished FrontEnd Foxes Bootcamp which started on January 10 2022 where we studied HTML, CSS, Javascript, and a little bit of Vue. Program ended February 18, 2022
+🦊 Finished FrontEnd Foxes workshop which started on January 10 2022 where we studied HTML, CSS, Javascript, and a little bit of Vue. Program ended February 18, 2022
 <br />
 <hr>
 
-🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied some python, java, and finished a job board built with flask that Pluralsight started. 
+🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied some python, java, and contributed to a job board built with flask that Pluralsight started. 
 <hr>
 
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
@@ -111,7 +111,7 @@ FUN STUFF
 
 🎪 <a href="https://clown-maze.netlify.app/">MAZE</a> | 👻 <a href="https://javascript-halloween-maze.netlify.app/">MAZE 2</a> | 📓 <a href="https://javascript-fun-todo-app.netlify.app/"> TODO</a> | 🔴 <a href="https://kjwilliamson.github.io/js-connect4/">CONNECT 4</a> | 🧠 <a href="https://js-tower-of-hanoi.netlify.app/"> TOWER OF HANOI</a> 
 ⏳ | 🎱 <a href="https://kamelaw.gitlab.io/magic8ball/">MAGIC 8 BALL</a>🔮  | 
-🐈 <a href="https://kjwilliamson.github.io/hungry-cat/"> Hungry Cat</a> | 🦇🥀⚰️☠️🔪 <a href="https://favoritescarymovie.netlify.app/?">Favorite Scary Movie</a>🎃👻🦇🕷💀🌙🧟‍♀️🕸🧛🏻‍♂️⚰️ | 📚 <a href="https://random-banned-books.netlify.app/">Banned Book Cover Generator</a> 📚 | 📚📚 <a href="https://random-literary-image.netlify.app/">Random Literary Image Quote</a>📚 | 🦌 <a href="https://favorite-christmas-movies.netlify.app/">What's your favorite 🎄🎁 Christmas 🥛🍪 movie?</a> | 🍕<a href="https://pizza-silliness.netlify.app/">Favorite Pizza 🍕</a> | 🥠 <a href="https://js-fortune-cookie.netlify.app/">Fortune Cookie</a> 🥠 | 📺 <a href="https://css-tv.netlify.app/">CSS TV</a> 📺 | 🔮 <a href="https://shake-magic-8-ball.netlify.app/">Shake the Magic 8 Ball</a>| 🌈 <a href="https://glow-clock.netlify.app/">Rainbow Clock</a> 🕑 | <a href="https://js-rock-paper-scissors-fun.netlify.app/">ROCK 🪨 PAPER 📄 SCISSORS ✂️</a> |🍸 <a href="https://favorite-cocktail.netlify.app/">Favorite Cocktail</a>🍹
+🐈 <a href="https://kjwilliamson.github.io/hungry-cat/"> Hungry Cat</a> | 🦇🥀⚰️☠️🔪 <a href="https://favoritescarymovie.netlify.app/?">Favorite Scary Movie</a>🦇🕷🌙🧟‍♀️🕸🧛🏻‍♂️⚰️ | 📚 <a href="https://random-banned-books.netlify.app/">Banned Book Cover Generator</a> 📚 | 📚📚 <a href="https://random-literary-image.netlify.app/">Random Literary Image Quote</a>📚 | 🦌 <a href="https://favorite-christmas-movies.netlify.app/">What's your favorite 🎄🎁 Christmas🥛🍪 movie?</a> | 🍕<a href="https://pizza-silliness.netlify.app/">Favorite Pizza 🍕</a> | 🥠 <a href="https://js-fortune-cookie.netlify.app/">Fortune Cookie</a> 🥠 | 📺 <a href="https://css-tv.netlify.app/">CSS TV</a> 📺 | 🔮 <a href="https://shake-magic-8-ball.netlify.app/">Shake the Magic 8 Ball</a>| 🌈 <a href="https://glow-clock.netlify.app/">Rainbow Clock</a> 🕑 | <a href="https://js-rock-paper-scissors-fun.netlify.app/">ROCK 🪨 PAPER 📄 SCISSORS ✂️</a> |🍸 <a href="https://favorite-cocktail.netlify.app/">Favorite Cocktail</a>🍹
 <br >
 
 
