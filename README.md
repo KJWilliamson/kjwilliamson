@@ -1,4 +1,4 @@
-### Hi there, I'm Kamela 👋
+# Hi there, I'm Kamela 👋
 
 Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=3559217aa17a4ab0">Playing 🎧</a>
 
@@ -98,14 +98,14 @@ I have used these in projects with teams:
 <br />
 <hr>
 
-Find me on the web 🌎
+#Find me on the web 🌎
 <br />
 <br />
-<h2>Lots of silliness and some portfolios</h2>
+#<h2>Lots of silliness and some portfolios</h2>
 🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://glitch.com/@KJWilliamson">Glitch</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | 💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio site with Resume</a> 🧑‍🎓 | ✨ <a href="https://www.kamela.dev/">Website</a> 🖥️ | <a href="https://www.polywork.com/kamelaw">Polywork</a> 👥 | <!-- <a href="https://kjwilliamson.github.io/">Github Portfolio Site</a>-->
 
 <hr>
-FUN STUFF
+#FUN STUFF
 <br />
 <br />
 
