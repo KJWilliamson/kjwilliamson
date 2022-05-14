@@ -8,6 +8,13 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/curiousdev_?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
+<hr>
+
+
+![kamgif](https://user-images.githubusercontent.com/24884380/168408313-a3eccf8f-56c2-4ecf-9407-7939299d836c.gif)
+
+
+
 
 <hr>
 🌱 Currently going through Learn With Leon and learning the Javascript Stack which started January 11 2022 and ends in August 2022.
