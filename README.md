@@ -120,20 +120,6 @@ FUN STUFF
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&theme=radical)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=radical). 
 
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/kamelaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kamelaw" height="30" width="40" /></a>
-<a href="https://twitter.com/codeandkombucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeandkombucha" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjwilliamson&show_icons=true&locale=en&layout=compact" alt="kjwilliamson" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjwilliamson&show_icons=true&locale=en" alt="kjwilliamson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjwilliamson&" alt="kjwilliamson" /></p>
-
 
 <!--
 **KJWilliamson/kjwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
