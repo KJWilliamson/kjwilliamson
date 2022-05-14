@@ -11,7 +11,8 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
 <hr>
 
 
-![kamgif2](https://user-images.githubusercontent.com/24884380/168408717-c90df671-ec0f-411f-9ed6-1e0abc85c33a.jpg)
+![kamgif](https://user-images.githubusercontent.com/24884380/168408785-525dd310-118f-4b74-8eb4-aad00329c4e4.gif)
+
 
 
 
