@@ -17,7 +17,7 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
 
 
 <hr>
-🌱 On January 11, 2022 I started at 100Devs where I'm learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
+💼 On January 11, 2022 I started at 100Devs where I'm learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
 <br />
 <hr>
@@ -26,7 +26,7 @@ Spotify <a href="https://open.spotify.com/playlist/2QXLbwmT2DqRhSrjWE0GF5?si=355
 <br />
 <hr>
 
-🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied some python, java, for a month and contributed to a job board built with flask that Pluralsight started. 
+🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied some python, java, from July 2021 to November 2021 and contributed to a job board built with flask that Pluralsight started. 
 <hr>
 
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
