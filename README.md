@@ -104,7 +104,7 @@ Find me on the web 🌎
 <br />
 Lots of silliness and some portfolios
 <br>
-🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://glitch.com/@KJWilliamson">Glitch</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | 💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio site with Resume</a> 🧑‍🎓 | ✨ <a href="https://www.kamela.dev/">Website</a> 🖥️ | <a href="https://www.polywork.com/kamelaw">Polywork</a> 👥 | <!-- <a href="https://kjwilliamson.github.io/">Github Portfolio Site</a>-->
+🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://glitch.com/@KJWilliamson">Glitch</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | 💻 <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Stuff</a> | <a href="https://www.kamela.dev/">Website</a> | <a href="https://www.polywork.com/kamelaw">Polywork</a> 👥 | 🖥️  <a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a> ✨✨
 
 <hr>
 FUN STUFF
