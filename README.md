@@ -122,8 +122,6 @@ FUN STUFF
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&theme=radical)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=radical). 
 
 
-![coffee](https://user-images.githubusercontent.com/24884380/184009814-9f90a44b-8778-4d8e-9629-e9b1e926527b.gif)
-
 
 
 <!--
