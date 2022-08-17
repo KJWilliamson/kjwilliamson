@@ -1,6 +1,6 @@
 # Hi there, I'm Kamela 👋
 
-Spotify <a href="https://open.spotify.com/playlist/5h3h27w6WJaKwmP74KT25V?si=fa165bc4e85d41fb">Playing 🎧</a>
+Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🎃🎃
 
 
 
