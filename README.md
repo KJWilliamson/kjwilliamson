@@ -122,6 +122,7 @@ FUN STUFF
 ![devil](https://user-images.githubusercontent.com/24884380/188503260-9664c41f-7ac4-435a-9ddf-5f59e75f223e.jpg)![cookie](https://user-images.githubusercontent.com/24884380/188496634-5194e859-f603-4a57-910e-eac434f98768.jpg)
 
 
+![maze](https://user-images.githubusercontent.com/24884380/188503573-c5de9eb7-e0e0-4848-ab5d-f8c2166f118b.jpg)
 ![fish](https://user-images.githubusercontent.com/24884380/188502863-363c344b-4a15-4b87-868a-0148f7616857.jpg)![animal](https://user-images.githubusercontent.com/24884380/188502886-de9f5086-e566-4703-a5ef-b7e77376c967.jpg)
 
 
