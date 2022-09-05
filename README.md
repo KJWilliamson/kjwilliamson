@@ -119,6 +119,9 @@ FUN STUFF
 
 ![halloween](https://user-images.githubusercontent.com/24884380/188496626-aab33ddc-1db3-48e2-a203-27c9ba5b9f27.jpg)![cookie](https://user-images.githubusercontent.com/24884380/188496634-5194e859-f603-4a57-910e-eac434f98768.jpg)![float8ball](https://user-images.githubusercontent.com/24884380/188502574-fafb0366-c496-4279-95b7-dc64e12e2d13.jpg)
 
+![fish](https://user-images.githubusercontent.com/24884380/188502863-363c344b-4a15-4b87-868a-0148f7616857.jpg)![animal](https://user-images.githubusercontent.com/24884380/188502886-de9f5086-e566-4703-a5ef-b7e77376c967.jpg)
+
+
 
 
 
