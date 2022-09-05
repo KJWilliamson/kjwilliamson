@@ -117,11 +117,6 @@ FUN STUFF
 <br >
 
 
-![halloween](https://user-images.githubusercontent.com/24884380/188496626-aab33ddc-1db3-48e2-a203-27c9ba5b9f27.jpg)![float8ball](https://user-images.githubusercontent.com/24884380/188502574-fafb0366-c496-4279-95b7-dc64e12e2d13.jpg)![magic8](https://user-images.githubusercontent.com/24884380/188503018-1e51c498-7290-467a-ac2a-06779f56c88f.jpg)
-
-![devil](https://user-images.githubusercontent.com/24884380/188503260-9664c41f-7ac4-435a-9ddf-5f59e75f223e.jpg)![cookie](https://user-images.githubusercontent.com/24884380/188496634-5194e859-f603-4a57-910e-eac434f98768.jpg)![maze](https://user-images.githubusercontent.com/24884380/188503733-8d83c6be-e1a3-4a03-8a4d-fa29b26688d9.jpg)
-
-
 
 
 ![fish](https://user-images.githubusercontent.com/24884380/188502863-363c344b-4a15-4b87-868a-0148f7616857.jpg)![animal](https://user-images.githubusercontent.com/24884380/188502886-de9f5086-e566-4703-a5ef-b7e77376c967.jpg)
