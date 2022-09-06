@@ -3,8 +3,7 @@
 
 
         I'm a bootcamp grad & self-taught developer who switched careers after I fell in love with programming. 
-
-
+<br>
 Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
 
 
@@ -32,7 +31,6 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
 
               One solo project & three group projects from Kenzie Academy
-<hr>
 
 <img src="https://user-images.githubusercontent.com/24884380/188702375-612b60e1-b820-4cf8-b116-a07fb37d0a9d.jpg" width="195" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702404-08d43b83-455d-4b66-88be-a9c1445dba59.jpeg" width="195" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702412-592344ae-8333-4ed6-960b-b74ec6517c9e.jpeg" width="195" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702426-7ac217e5-7d20-4665-8ddb-aaa147335fa8.jpeg" width="195" height="200"/>
 
