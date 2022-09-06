@@ -2,7 +2,7 @@
 
 
 
-        I'm a bootcamp grad & self-taught developer who switched careers after I fell in love with programming. I’m currently reviewing Javascript and looking to contribute to open source while I look for my first tech job.
+I'm a bootcamp grad & self-taught developer who switched careers after I fell in love with programming. I’m currently reviewing Javascript and looking to contribute to open source while I look for my first tech job.
 <br>
 
 Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
@@ -36,7 +36,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 
 <hr>
 
-#Languages and Tools
+LANGUAGES AND TOOLS
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -105,15 +105,15 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 
 <hr>
 
-#Find me on the web 🌎
+FIND ME ON THE WEB 🌎
 <br />
 <br />
-#Websites and portfolios
+WEBSITES AND PORTFOLIOS
 <br>
  🖥️  <a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a> ✨✨ | 🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://glitch.com/@KJWilliamson">Glitch</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Site</a>| <a href="https://www.polywork.com/kamelaw">Polywork</a> 👥 
 
 <hr>
-#Projects
+PROJECTS
 <br />
 <br />
 
@@ -122,7 +122,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 <br >
 <hr>
 
-#Some example screenshots from the apps above!
+SCREENSHOTS FROM SOME OF THE WEBSITES ABOVE
 <hr>
 
 <img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="400" height="350"/> <img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="400" height="350"/> 
@@ -138,7 +138,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 <br>
 <hr>
 
-#Examples of client websites
+EXAMPLES OF CLIENT WEBSITES
 
 <img src="https://user-images.githubusercontent.com/24884380/188712771-d7fbd7bd-3b0b-470d-bb70-5b2f392005d5.png" width="400" height="600"/> <img src="https://user-images.githubusercontent.com/24884380/188710396-db01828c-489b-4f13-87cc-5ad2d70ee8ac.jpg" width="400" height="600"/>
 
