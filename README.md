@@ -11,12 +11,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 <hr>
 
 
-![kamgif](https://user-images.githubusercontent.com/24884380/168408785-525dd310-118f-4b74-8eb4-aad00329c4e4.gif)
-
-
-
-
-
+<br>
 <hr>
 💼 On January 11, 2022 I started at 100Devs where I'm learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
@@ -36,6 +31,14 @@ I have used these in projects with teams:
 <br />
 <hr>
 
+
+![kamgif](https://user-images.githubusercontent.com/24884380/168408785-525dd310-118f-4b74-8eb4-aad00329c4e4.gif)
+
+
+
+
+<hr>
+<br>
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
