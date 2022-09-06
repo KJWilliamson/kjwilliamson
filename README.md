@@ -137,7 +137,7 @@ Some example screenshots from the apps above!
 
 <img src="https://user-images.githubusercontent.com/24884380/188540601-96ad2786-e0c0-4c98-acfb-4e7330f43cfc.jpg" width="400" height="350"/> <img src="https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg" width="400" height="350"/>
 
-<img src="https://user-images.githubusercontent.com/24884380/188710050-1a777edf-e46d-47fa-a468-27a3dfe20530.jpg" width="400" height="350"/> <img src="https://user-images.githubusercontent.com/24884380/188710068-ef3345a8-6f0c-4a86-88a1-11fe761c182f.jpg width="400" height="350"/>
+<img src="https://user-images.githubusercontent.com/24884380/188710050-1a777edf-e46d-47fa-a468-27a3dfe20530.jpg" width="400" height="350"/> <img src="https://user-images.githubusercontent.com/24884380/188710068-ef3345a8-6f0c-4a86-88a1-11fe761c182f.jpg" width="400" height="350"/>
 
 <img src="https://user-images.githubusercontent.com/24884380/188710302-a9750a18-602d-47f7-a849-8c4c26404326.jpg" width="400" height="350"/> <img src="https://user-images.githubusercontent.com/24884380/188710396-db01828c-489b-4f13-87cc-5ad2d70ee8ac.jpg" width="400" height="350"/>
 
