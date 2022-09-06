@@ -17,7 +17,6 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 
 💼 On January 11, 2022 I started at 100Devs where I'm learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
-<br />
 <hr>
 
 🦊 Finished FrontEnd Foxes workshop which started on January 10 2022 where we studied HTML, CSS, Javascript, and a little bit of Vue. Program ended February 18, 2022
