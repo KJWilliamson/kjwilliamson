@@ -1,4 +1,4 @@
-# Hi there, I'm Kamela 👋 
+# Hello, I'm Kamela 👋 
 
 
 
