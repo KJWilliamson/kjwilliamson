@@ -107,12 +107,12 @@ Languages and Tools
 Find me on the web 🌎
 <br />
 <br />
-Lots of silliness and some portfolios
+Websites and portfolios
 <br>
  🖥️  <a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a> ✨✨ | 🎨 🖼️  <a href="https://codepen.io/sharkcat73">Codepen</a> | 💻 <a href="https://replit.com/@KJWilliamson">Replit</a> | <a href="https://glitch.com/@KJWilliamson">Glitch</a> | ⚡ <a href="https://gitlab.com/kamelaw"> Gitlab</a> | <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Site</a>| <a href="https://www.polywork.com/kamelaw">Polywork</a> 👥 
 
 <hr>
-FUN STUFF
+Projects
 <br />
 <br />
 
