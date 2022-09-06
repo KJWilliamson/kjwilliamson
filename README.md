@@ -12,7 +12,6 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 
 
 <br>
-<hr>
 💼 On January 11, 2022 I started at 100Devs where I'm learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
 <br />
