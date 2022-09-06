@@ -144,7 +144,7 @@ Some example screenshots from the apps above!
 
 Examples of client websites
 
-<img src="https://user-images.githubusercontent.com/24884380/188710302-a9750a18-602d-47f7-a849-8c4c26404326.jpg" width="400" height="550"/> <img src="https://user-images.githubusercontent.com/24884380/188710396-db01828c-489b-4f13-87cc-5ad2d70ee8ac.jpg" width="400" height="550"/>
+<img src="https://user-images.githubusercontent.com/24884380/188710302-a9750a18-602d-47f7-a849-8c4c26404326.jpg" width="400" height="600"/> <img src="https://user-images.githubusercontent.com/24884380/188710396-db01828c-489b-4f13-87cc-5ad2d70ee8ac.jpg" width="400" height="600"/>
 
 
 
