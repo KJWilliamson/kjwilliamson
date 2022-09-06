@@ -123,7 +123,8 @@ Projects
 Some example screenshots from the apps above!
 <hr>
 
-![clown](https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg)![halloween](https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg)![fish](https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg)![magic8](https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg)![fortune](https://user-images.githubusercontent.com/24884380/188540419-0455bced-195b-4e77-ba49-da8f33270dd3.jpg)![jaws](https://user-images.githubusercontent.com/24884380/188540585-e4e981bd-6084-4ae0-8ef5-3ca862c05dfd.jpg)![banned](https://user-images.githubusercontent.com/24884380/188540601-96ad2786-e0c0-4c98-acfb-4e7330f43cfc.jpg)![maze2](https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg)
+<img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="500" height="400"/> <img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="500" height="400"/> 
+![fish](https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg)![magic8](https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg)![fortune](https://user-images.githubusercontent.com/24884380/188540419-0455bced-195b-4e77-ba49-da8f33270dd3.jpg)![jaws](https://user-images.githubusercontent.com/24884380/188540585-e4e981bd-6084-4ae0-8ef5-3ca862c05dfd.jpg)![banned](https://user-images.githubusercontent.com/24884380/188540601-96ad2786-e0c0-4c98-acfb-4e7330f43cfc.jpg)![maze2](https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg)
 
 
 
