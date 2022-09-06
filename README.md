@@ -123,7 +123,7 @@ Projects
 Some example screenshots from the apps above!
 <hr>
 
-<img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="500" height="400"/> <img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="500" height="400"/> 
+<img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="450" height="550"/> <img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="450" height="550"/> 
 
 <img src="https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg" width="500" height="400"/> <img src="https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg" width="500" height="400"/>
 
