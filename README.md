@@ -4,7 +4,6 @@
 
         I'm a bootcamp grad & self-taught developer who switched careers after I fell in love with programming. 
 
-<hr>
 
 Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
 
