@@ -38,10 +38,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 <img src="https://user-images.githubusercontent.com/24884380/168408785-525dd310-118f-4b74-8eb4-aad00329c4e4.gif" width="800" height="400" />
 
 
-
-
 <hr>
-<br>
 
 Languages and Tools
 
@@ -105,7 +102,7 @@ Languages and Tools
 
 
 </p>
-<br />
+
 <hr>
 
 Find me on the web 🌎
