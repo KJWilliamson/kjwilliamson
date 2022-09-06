@@ -29,6 +29,17 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
 
 <hr>
+One solo project & three group projects
+<hr>
+<br>
+
+<img src="https://user-images.githubusercontent.com/24884380/188702375-612b60e1-b820-4cf8-b116-a07fb37d0a9d.jpg" width="200" height="300"/>
+<img src="https://user-images.githubusercontent.com/24884380/188702404-08d43b83-455d-4b66-88be-a9c1445dba59.jpeg" width="200" height="300"/>
+<img src="https://user-images.githubusercontent.com/24884380/188702412-592344ae-8333-4ed6-960b-b74ec6517c9e.jpeg" width="200" height="300"/>
+<img src="https://user-images.githubusercontent.com/24884380/188702426-7ac217e5-7d20-4665-8ddb-aaa147335fa8.jpeg" width="200" height="300"/>
+
+
+<hr>
 
 <img src="https://user-images.githubusercontent.com/24884380/168408785-525dd310-118f-4b74-8eb4-aad00329c4e4.gif" width="1000" height="500" />
 
