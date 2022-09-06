@@ -1,4 +1,4 @@
-# Hi there, I'm Kamela 👋
+# Hi there, I'm Kamela 👋 I'm a bootcamp grad & self-taught developer who switched careers after I fell in love with programming. 
 
 <hr>
 
