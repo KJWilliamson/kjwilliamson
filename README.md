@@ -39,6 +39,8 @@ I have used these in projects with teams:
 <hr>
 <br>
 
+Languages and Tools
+
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     
