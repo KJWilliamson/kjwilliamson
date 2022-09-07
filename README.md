@@ -6,7 +6,7 @@ I'm a bootcamp grad & self-taught developer who switched careers after I fell in
 <br>
 
 Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
-<br>
+<br> & <a href="https://open.spotify.com/playlist/5h3h27w6WJaKwmP74KT25V?si=ff9563ace39b4719">
 
 
 <a href="https://twitter.com/codeandkombucha">
