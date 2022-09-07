@@ -5,8 +5,7 @@
 I'm a bootcamp grad & self-taught developer who switched careers after I fell in love with programming. I’m currently reviewing Javascript and looking to contribute to open source while I look for my first tech job.
 <br>
 
-Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
-<br> & <a href="https://open.spotify.com/playlist/5h3h27w6WJaKwmP74KT25V?si=ff9563ace39b4719">Also Playing</a>
+Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻 & <a href="https://open.spotify.com/playlist/5h3h27w6WJaKwmP74KT25V?si=ff9563ace39b4719">Also Playing</a> 🎸
 
 
 <a href="https://twitter.com/codeandkombucha">
