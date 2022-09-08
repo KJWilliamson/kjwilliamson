@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kamela 👋 width="500px" height="500px"</h1>
+<h1>Hello, I'm Kamela 👋 </h1>
 
 
 
@@ -14,7 +14,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
 <hr>
 
-# 100Devs
+<h2>100Devs</h2>
 January 11, 2022 - present
 Learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
