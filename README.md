@@ -14,24 +14,24 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
 <hr>
 
-<h2>100Devs</h2>
+<h3>100Devs</h3>
 January 11, 2022 - present
 Learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
 <hr>
 
-# 🦊 FrontEnd Foxes workshop
+<h3>🦊 FrontEnd Foxes workshop</h3>
 January 10 - February 18 2022 
 Studied HTML, CSS, Javascript, and a little bit of Vue. 
 <br />
 <hr>
 
-# IBM Software Engineer Pre-apprenticeship Certificate
+<h3>IBM Software Engineer Pre-apprenticeship Certificate</h3>
 July - November 8th, 2021 
 Sttudied some python, java and contributed to a job board built with flask that Pluralsight started. 
 <hr>
 
-# 🎓Kenzie Academy
+<h3>🎓Kenzie Academy</h3>
 April 2021 - April 2022 
 Full Stack Web Deveopment Certificate 🖥️. <br />
 
