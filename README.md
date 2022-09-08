@@ -22,13 +22,13 @@ Learning the Javascript Stack and building semantically structured full-stack we
 
 <h3>🦊 FrontEnd Foxes workshop</h3>
 January 10 - February 18 2022 
-Studied HTML, CSS, Javascript, and a little bit of Vue. 
+Studied HTML, CSS, Javascript, and an introduction to Vue. 
 <br />
 <hr>
 
 <h3>IBM Software Engineer Pre-apprenticeship Certificate</h3>
 July - November 8th, 2021 
-Sttudied some python, java and contributed to a job board built with flask that Pluralsight started. 
+Studied Python, Java and contributed to a job board built with Flask that Pluralsight gave starter code for. 
 <hr>
 
 <h3>🎓Kenzie Academy</h3>
