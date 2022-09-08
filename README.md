@@ -17,7 +17,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 <h3>100Devs</h3>
 January 2022 - present
 <br>
-Learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
+Learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like "SCRUM" for project management.
 
 <hr>
 
@@ -30,7 +30,7 @@ Studied HTML, CSS, Javascript, and an introduction to Vue.
 <h3>IBM Software Engineer Pre-apprenticeship Certificate</h3>
 July - November 2021 
 <br>
-Studied Python, Java and contributed to a job board built with Flask that Pluralsight gave starter code for. 
+Studied Python, Java and contributed to a job board built with Flask(Pluralsight starter code) 
 <hr>
 
 <h3>🎓Kenzie Academy</h3>
