@@ -14,7 +14,9 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
 <hr>
 
-💼 On January 11, 2022 I started at 100Devs where I'm learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
+# 100Devs
+January 11, 2022 - present
+Learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
 <hr>
 
