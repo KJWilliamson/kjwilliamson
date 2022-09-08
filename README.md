@@ -30,7 +30,7 @@ Studied HTML, CSS, Javascript, and an introduction to Vue.
 <h3>IBM Software Engineer Pre-apprenticeship Certificate</h3>
 July - November 2021 
 <br>
-Studied Python, Java and contributed to a job board built with Flask(Pluralsight starter code) 
+Studied Python, Java, and contributed to a job board built with Flask(Pluralsight starter code) 
 <hr>
 
 <h3>🎓Kenzie Academy</h3>
