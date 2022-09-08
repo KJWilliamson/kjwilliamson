@@ -20,14 +20,20 @@ Learning the Javascript Stack and building semantically structured full-stack we
 
 <hr>
 
-🦊 Finished FrontEnd Foxes workshop which started on January 10 2022 where we studied HTML, CSS, Javascript, and a little bit of Vue. Program ended February 18, 2022
+# 🦊 FrontEnd Foxes workshop
+January 10 - February 18 2022 
+Studied HTML, CSS, Javascript, and a little bit of Vue. 
 <br />
 <hr>
 
-🔭 On November 8th, 2021 I finished the new IBM Software Engineer Pre-apprenticeship Certificate where I studied some python, java, from July 2021 to November 2021 and contributed to a job board built with flask that Pluralsight started. 
+# IBM Software Engineer Pre-apprenticeship Certificate
+July - November 8th, 2021 
+Sttudied some python, java and contributed to a job board built with flask that Pluralsight started. 
 <hr>
 
-🎓 Graduate of Kenzie Academy in April 2021. Full Stack Web Deveopment Certificate 🖥️. <br />
+# 🎓Kenzie Academy
+April 2021 - April 2022 
+Full Stack Web Deveopment Certificate 🖥️. <br />
 
               One solo project & three group projects from Kenzie Academy
 
