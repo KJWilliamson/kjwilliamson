@@ -16,12 +16,15 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 
 <h3>100Devs</h3>
 January 11, 2022 - present
+<br>
 Learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
 <hr>
 
 <h3>🦊 FrontEnd Foxes workshop</h3>
+<br>
 January 10 - February 18 2022 
+<br>
 Studied HTML, CSS, Javascript, and an introduction to Vue. 
 <br />
 <hr>
