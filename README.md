@@ -15,20 +15,20 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 <hr>
 
 <h3>100Devs</h3>
-January 11, 2022 - present
+January 2022 - present
 <br>
 Learning the Javascript Stack and building semantically structured full-stack web applications while applying agile methodologies like SCRUM for project management.
 
 <hr>
 
 <h3>🦊 FrontEnd Foxes workshop</h3>
-January 10 - February 18 2022 
+January - February 2022 
 <br>
 Studied HTML, CSS, Javascript, and an introduction to Vue. 
 <hr>
 
 <h3>IBM Software Engineer Pre-apprenticeship Certificate</h3>
-July - November 8th, 2021 
+July - November 2021 
 <br>
 Studied Python, Java and contributed to a job board built with Flask that Pluralsight gave starter code for. 
 <hr>
