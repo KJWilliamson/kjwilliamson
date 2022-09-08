@@ -36,7 +36,7 @@ Studied Python, Java and contributed to a job board built with Flask(Pluralsight
 <h3>🎓Kenzie Academy</h3>
 April 2021 - April 2022 
 <br>
-Full Stack Web Deveopment Certificate 
+Fullstack Web Development Certificate 
 <br>
 
               One solo project & three group projects from Kenzie Academy
