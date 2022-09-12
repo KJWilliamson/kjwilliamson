@@ -1,3 +1,9 @@
+<img src="https://user-images.githubusercontent.com/24884380/168408785-525dd310-118f-4b74-8eb4-aad00329c4e4.gif" width="800" height="350" />
+
+<img src="https://user-images.githubusercontent.com/24884380/189756050-a3a3ca05-6cd3-4ca7-a123-8e3956d5076a.gif" width="800" height="350" />
+
+
+
 <h1>Hello, I'm Kamela 👋 </h1>
 
 
@@ -109,11 +115,6 @@ LANGUAGES AND TOOLS
 
 
 </p>
-
-<hr>
-
-<img src="https://user-images.githubusercontent.com/24884380/168408785-525dd310-118f-4b74-8eb4-aad00329c4e4.gif" width="800" height="350" />
-
 <hr>
 
 FIND ME ON THE WEB 🌎
