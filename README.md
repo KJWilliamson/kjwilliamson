@@ -1,8 +1,10 @@
 <img src="https://user-images.githubusercontent.com/24884380/189760568-07f796b6-8ae2-42f2-986f-3bca9726f397.gif" width="800" height="350" />
 
+<!-- 
+hand waving gif
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> -->
 
-
-<h1>Hello, I'm Kamela <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="30" height"30" /></h1>
+<h1>Hello, I'm Kamela <img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="35" height"35" /></h1>
 
 
 
