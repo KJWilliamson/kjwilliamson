@@ -6,7 +6,7 @@
 
 
 
-Bootcamp grad & self-taught developer who switched careers after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source while looking for my first tech job.
+Bootcamp grad & self-taught developer who switched careers after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source while looking for my first tech job. I have a wide variety of interests ranging from programming, VR, augmented reality, to AI & Robotics.
 <br>
 
 Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
