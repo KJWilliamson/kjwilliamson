@@ -180,8 +180,6 @@ EXAMPLES OF CLIENT WEBSITES
 <hr>
 <br>
 
-<img src="https://user-images.githubusercontent.com/24884380/189788079-a765a20e-c839-4db9-a192-4309dd47acf3.jpg" width="800" height="150"/>
-
 
 <!--
 **KJWilliamson/kjwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
