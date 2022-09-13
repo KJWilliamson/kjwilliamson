@@ -9,7 +9,7 @@
 Bootcamp grad & self-taught developer who switched careers after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source while looking for my first tech job. I have a wide variety of interests ranging from programming, VR, & augmented reality, to AI & Robotics.
 <br>
 <hr>
-## FIND ME ON THE WEB 🌎
+FIND ME ON THE WEB 🌎
 <br />
 PORTFOLIO & WHERE ELSE TO FIND ME
 <!--  <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Site</a>.  -->
