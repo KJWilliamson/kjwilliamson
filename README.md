@@ -138,7 +138,8 @@ SCREENSHOTS FROM SOME OF THE WEBSITES ABOVE
 
 <section><a href="https://github.com/KJWilliamson/countdown-to-halloween"><img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="800" height="350"/></a></section>
 
-<img src="https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg" width="800" height="350"/> 
+<section><a href="https://github.com/KJWilliamson/fish-design-calculator"><img src="https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg" width="800" height="350"/></a></section>
+
 <img src="https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg" width="800" height="350"/>
 
 <img src="https://user-images.githubusercontent.com/24884380/188540419-0455bced-195b-4e77-ba49-da8f33270dd3.jpg" width="800" height="350"/> 
