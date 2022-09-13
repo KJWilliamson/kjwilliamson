@@ -13,7 +13,7 @@ Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=074
 
 
 <a href="https://twitter.com/codeandkombucha">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/curiousdev_?color=EDE9DEc&labelColor=EDE9DE&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/curiousdev_?color=EDE9DE&labelColor=EDE9DE&label=Follow&logo=twitter&logoColor=black&style=for-the-badge"/></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
 <hr>
