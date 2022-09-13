@@ -135,7 +135,7 @@ PROJECTS
 SCREENSHOTS FROM SOME OF THE WEBSITES ABOVE
 <hr>
 
-<img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="400" height="350" /> <img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="400" height="350"/> 
+<p><a href="https://github.com/KJWilliamson/maze"><img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="400" height="350" /></a></p> <img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="400" height="350"/> 
 
 <img src="https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg" width="400" height="350"/> <img src="https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg" width="400" height="350"/>
 
