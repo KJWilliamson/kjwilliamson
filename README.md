@@ -126,7 +126,9 @@ WEBSITES AND PORTFOLIOS
 
 <hr>
 
+
 <!--
+*****COMMENTED OUT*****
 PROJECTS
 <br />
 <br />
@@ -135,6 +137,7 @@ PROJECTS
 ⏳ | 🎱 <a href="https://jsmagic8ball.netlify.app/">Magic 8 Ball</a>🔮 | 🦇<a href="https://favoritescarymovie.netlify.app/?">Favorite Scary Movie</a>🧟‍♀️| 📚 <a href="https://random-banned-books.netlify.app/">Banned Book Cover Generator</a> | 📚<a href="https://random-literary-image.netlify.app/">Random Literary Image Quote</a> | 🎄<a href="https://favorite-christmas-movies.netlify.app/">What's your favorite Christmas🥛🍪 movie?</a> | <a href="https://pizza-silliness.netlify.app/">Favorite Pizza 🍕</a> | 🥠 <a href="https://js-fortune-cookie.netlify.app/">Fortune Cookie</a>  | 📺 <a href="https://css-tv.netlify.app/">CSS TV</a> 📺 | 🔮 <a href="https://shake-magic-8-ball.netlify.app/">Shake the Magic 8 Ball</a>| <a href="https://glow-clock.netlify.app/">Rainbow Clock</a> 🕑 | <a href="https://js-rock-paper-scissors-fun.netlify.app/">ROCK 🪨 PAPER 📄 SCISSORS ✂️</a> |🍸 <a href="https://favorite-cocktail.netlify.app/">Favorite Cocktail</a> | <a href="https://background-color-picker.netlify.app/">Background-color Picker</a> | <a href="https://ya-banned-books.netlify.app/">YA Banned Book Generator</a> | <a href="https://vent-simulator.netlify.app/">Vent Simulator</a> | <a href="https://askyesorno.netlify.app/">Ask A Yes Or No Question</a> | <a href="https://background-image-picker.netlify.app/">Background Image Picker</a> | <a href="https://background-colors.netlify.app/">Background Colors</a> | <a href='https://js-guessinggame.netlify.app/'>Guess The Number Game</a> | 🎃 <a href="https://countdown-halloween.netlify.app/">Halloween Countdown!</a> | 🎄<a href="https://a-christmas-countdown.netlify.app/">Christmas Countdown</a> | 🎃 <a href="https://halloween-background-picker.netlify.app/">Halloween Background Picker</a>
 <br >
 <hr>
+*****COMMENTED OUT*******
 -->
 
 IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS
@@ -158,6 +161,10 @@ IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS
 <section><a href="https://github.com/KJWilliamson/background-colors"><img src="https://user-images.githubusercontent.com/24884380/188710050-1a777edf-e46d-47fa-a468-27a3dfe20530.jpg" width="800" height="250"/></a></section> 
 
 <section><a href="https://github.com/KJWilliamson/rock-paper-scissors"><img src="https://user-images.githubusercontent.com/24884380/188710068-ef3345a8-6f0c-4a86-88a1-11fe761c182f.jpg" width="800" height="250"/></a></section>
+
+<section><a href="https://javascript-tower-of-hanoi.netlify.app/"><img src="https://user-images.githubusercontent.com/24884380/189988592-84403280-f29f-43ef-8933-94ee6bf12eed.jpg" width="800" height="250" /></a></section>
+
+
 
 <br>
 <hr>
