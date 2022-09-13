@@ -14,11 +14,11 @@ FIND ME ON THE WEB 🌎
 PORTFOLIO & OTHER LINKS
 <!--  <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Site</a>.  -->
 <br>
- ✨<a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a>✨ | 🖼️<a href="https://codepen.io/Kamelaw">Codepen</a> | <a href="https://www.polywork.com/kamelaw">Polywork</a> 
+ ✨<a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a>✨ | <a href="https://www.polywork.com/kamelaw">Polywork</a> 
  <br>
  <br>
  <br>
- <a href="https://twitter.com/codeandkombucha"><img src="https://user-images.githubusercontent.com/24884380/190008230-9c5ca93a-edd1-4b5d-b365-d518f6d3e252.png" width="25" height="25" /></a> <a href=""><img src="https://user-images.githubusercontent.com/24884380/190009141-db475fec-5f92-48e9-8396-a2e4ae520f0b.png" width="20" height="20" /></a>
+ <a href="https://twitter.com/codeandkombucha"><img src="https://user-images.githubusercontent.com/24884380/190008230-9c5ca93a-edd1-4b5d-b365-d518f6d3e252.png" width="25" height="25" /></a> <a href=""><img src="https://user-images.githubusercontent.com/24884380/190009141-db475fec-5f92-48e9-8396-a2e4ae520f0b.png" width="20" height="20" /></a> <a href="https://codepen.io/Kamelaw"><img src="https://user-images.githubusercontent.com/24884380/190009492-cf9501a6-3019-4c8b-b8bb-728d566bdafa.png" width="20" height="20" /></a>
 
  
  
