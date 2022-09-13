@@ -66,49 +66,49 @@ LANGUAGES AND TOOLS
     
 <img alt="React" src="https://img.shields.io/badge/react-EDE9DE.svg?style=for-the-badge&logo=react&logoColor=black"/>
     
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-EDE9DE.svg?style=for-the-badge&logo=node-dot-js&logoColor=black"/>
     
     
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-EDE9DE.svg?style=for-the-badge&logo=express&logoColor=black"/>
     
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-EDE9DE.svg?style=for-the-badge&logo=git&logoColor=black"/>
     
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab-EDE9DE.svg?style=for-the-badge&logo=gitlab&logoColor=black"/>
     
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-EDE9DE.svg?style=for-the-badge&logo=github&logoColor=black"/>
 
     
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-EDE9DE.svg?style=for-the-badge&logo=markdown&logoColor=black"/>
     
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-EDE9DE.svg?style=for-the-badge&logo=python&logoColor=black"/>
     
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/django-EDE9DE.svg?style=for-the-badge&logo=django&logoColor=black"/>
     
-<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-EDE9DE.svg?style=for-the-badge&logo=Canva&logoColor=black"/>
     
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-EDE9DE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
     
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-EDE9DE.svg?style=for-the-badge&logo=PyCharm&logoColor=black"/>
     
-<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-EDE9DE.svg?style=for-the-badge&logo=sublime-text&logoColor=black"/>
     
-<img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+<img alt="Atom" src="https://img.shields.io/badge/Atom-EDE9DE.svg?style=for-the-badge&logo=atom&logoColor=black"/>
     
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-EDE9DE.svg?style=for-the-badge&logo=postgresql&logoColor=black"/>
     
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-EDE9DE.svg?style=for-the-badge&logo=mongodb&logoColor=black"/>
     
-<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-EDE9DE.svg?style=for-the-badge&logo=sqlite&logoColor=black"/>
     
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-EDE9DE?style=for-the-badge&logo=windows&logoColor=black" />
     
-<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+<img alt="IOS" src="https://img.shields.io/badge/iOS-EDE9DE?style=for-the-badge&logo=ios&logoColor=black">
     
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-EDE9DE?style=for-the-badge&logo=ubuntu&logoColor=black" />
     
-<img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-EDE9DE?style=for-the-badge&logo=microsoft-word&logoColor=black" />
     
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-EDE9DE?style=for-the-badge&logo=postman&logoColor=black" />
     
 
 
