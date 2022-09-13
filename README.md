@@ -165,7 +165,7 @@ EXAMPLES OF CLIENT WEBSITES
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&theme=radical)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=radical). 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&theme=merko)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=merko). 
 <hr>
 <br>
 
