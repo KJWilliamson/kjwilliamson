@@ -26,11 +26,6 @@ PORTFOLIO & OTHER LINKS
 
 Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
 
-
-<a href="https://twitter.com/codeandkombucha">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/curiousdev_?color=EDE9DE&labelColor=678F53&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=KJWilliamson.KJWilliamson) [![Github](https://img.shields.io/github/followers/KJWilliamson?label=Follow&style=social)](https://github.com/KJWilliamson) 
 <hr>
 
 <h3>100Devs</h3>
