@@ -134,7 +134,7 @@ PROJECTS
 
 IMAGE LINKS FROM SOME OF THE WEBSITES ABOVE
 
-<section><a href="https://github.com/KJWilliamson/maze"><img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="800" height="350" /></a></section> 
+<section><a href="https://github.com/KJWilliamson/maze"><img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="800" height="250" /></a></section> 
 
 <section><a href="https://github.com/KJWilliamson/countdown-to-halloween"><img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="800" height="350"/></a></section>
 
