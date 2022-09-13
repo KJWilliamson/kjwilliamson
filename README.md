@@ -119,7 +119,7 @@ LANGUAGES AND TOOLS
 
 ## FIND ME ON THE WEB 🌎
 <br />
-WEBSITES AND PORTFOLIOS
+PORTFOLIO & WHERE ELSE TO FIND ME
 <!--  <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Site</a>.  -->
 <br>
  ✨<a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a>✨ | 🖼️<a href="https://codepen.io/Kamelaw">Codepen</a> | <a href="https://www.polywork.com/kamelaw">Polywork</a> 
