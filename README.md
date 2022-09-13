@@ -152,12 +152,10 @@ EXAMPLES OF CLIENT WEBSITES
 
 <img src="https://user-images.githubusercontent.com/24884380/188712771-d7fbd7bd-3b0b-470d-bb70-5b2f392005d5.png" width="400" height="700"/> <img src="https://user-images.githubusercontent.com/24884380/188710396-db01828c-489b-4f13-87cc-5ad2d70ee8ac.jpg" width="400" height="700"/>
 
-
-
-
-
-
 <hr>
+
+<img src="https://user-images.githubusercontent.com/24884380/189788079-a765a20e-c839-4db9-a192-4309dd47acf3.jpg" width="800" height="250"/>
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&theme=radical)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=radical). 
