@@ -36,7 +36,7 @@ Learning the Javascript Stack and building semantically structured full-stack we
 <h3>🦊 FrontEnd Foxes workshop</h3>
 January - February 2022 
 <br>
-Studied HTML, CSS, Javascript, and an introduction to Vue. 
+Built a basic portfolio using HTML, CSS, Javascript, and Vue. 
 <hr>
 
 <h3>IBM Software Engineer Pre-apprenticeship Certificate</h3>
