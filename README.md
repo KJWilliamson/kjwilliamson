@@ -10,7 +10,9 @@ hand waving gif
 
 Bootcamp grad & self-taught developer who switched careers after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source while looking for my first tech job. I have a wide variety of interests ranging from programming, VR, & augmented reality, to AI & Robotics.
 <br>
+ In previous lives I have worked as an SEO & admin manager, blog and website developer, ghostwriter for client blogs and social media accounts, view my resumé <a href="https://kamelawilliamson.netlify.app/about.html">here</a>
 <hr>
+<br>
 FIND ME ON THE WEB 🌎
 <br />
 PORTFOLIO & OTHER LINKS
