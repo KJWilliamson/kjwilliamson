@@ -10,6 +10,7 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 <br>
 <hr>
 - 🌱 I’m looking to collaborate on beginner front-end web development projects
+<br>
 - 🌱 I'm currently reviewing javascript and diving into React, Node, MongoDB and Express
 <br>
 <hr>
