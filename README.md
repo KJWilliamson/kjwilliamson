@@ -153,7 +153,7 @@ IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS
 
 <section><a href="https://github.com/KJWilliamson/maze"><img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="800" height="250" /></a></section> 
 
-<section><a href="https://github.com/KJWilliamson/countdown-to-halloween"><img src="https://user-images.githubusercontent.com/24884380/188539255-89afce09-2eef-4735-9e85-d3a5aec97671.jpg" width="800" height="250"/></a></section>
+<section><a href="https://github.com/KJWilliamson/countdown-to-halloween"><img src="https://user-images.githubusercontent.com/24884380/193156120-38088b6a-083f-48a0-99ab-a416d4995604.jpg" width="800" height="250"/></a></section>
 
 <section><a href="https://github.com/KJWilliamson/fish-design-calculator"><img src="https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg" width="800" height="250"/></a></section>
 
