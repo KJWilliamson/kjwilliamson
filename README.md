@@ -81,7 +81,6 @@ LANGUAGES AND TOOLS
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-678F53.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     
-    
 <img alt="CSS3" src="https://img.shields.io/badge/css3-678F53.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-678F53.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -109,6 +108,8 @@ LANGUAGES AND TOOLS
 <img alt="Canva" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 <img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-678F53.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img alt="Netlify" src="https://img.shields.io/badge/netlify-678F53.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
     
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-678F53.svg?style=for-the-badge&logo=PyCharm&logoColor=black"/>
     
