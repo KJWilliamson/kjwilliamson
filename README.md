@@ -94,6 +94,10 @@ LANGUAGES AND TOOLS
 
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-678F53.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
+<img alt="Figma" src="https://img.shields.io/badge/figma-678F53.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img alt="Pug" src="https://img.shields.io/badge/pug-678F53.svg?style=for-the-badge&logo=pug&logoColor=white"/>
+
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-678F53.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 <img alt="Python" src="https://img.shields.io/badge/python-678F53.svg?style=for-the-badge&logo=python&logoColor=white"/>
