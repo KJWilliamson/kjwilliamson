@@ -19,7 +19,7 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 <hr>
 <br>
 
-<img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="800" height="135" />
+<img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="800" height="250" />
 
 <hr>
 <br
