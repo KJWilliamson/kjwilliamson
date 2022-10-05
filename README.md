@@ -15,11 +15,11 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 <br>
 - 📚 Fun fact: I love hiking, traveling, reading books, listening to music, and watching movies with friends.
 <hr>
- In previous lives I have worked as an SEO & admin manager, blog and website developer, and a ghostwriter for client blogs and social media accounts, view my resumé <a href="https://kamelawilliamson.netlify.app/about.html">here</a>
+ In previous lives I have worked as an SEO & Admin Manager, Blog and Website Developer, and a Ghostwriter for client blogs and social media accounts.  View my resumé <a href="https://kamelawilliamson.netlify.app/about.html">here</a>
 <hr>
 <br>
 
-<img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="800" height="250" />
+<img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="800" height="300" />
 
 <hr>
 <br
