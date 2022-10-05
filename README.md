@@ -25,7 +25,7 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 <br
 FIND ME ON THE WEB 🌎
 <br />
-PORTFOLIO & OTHER LINKS
+# PORTFOLIO & OTHER LINKS
 <!--  <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Site</a>.  -->
 <br>
  ✨<a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a>✨
