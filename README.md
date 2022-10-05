@@ -87,30 +87,21 @@ LANGUAGES AND TOOLS
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-678F53.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
     
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-678F53.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    
-    
-<img alt="React" src="https://img.shields.io/badge/react-678F53.svg?style=for-the-badge&logo=react&logoColor=white"/>
-    
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-678F53.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-    
-    
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-678F53.svg?style=for-the-badge&logo=express&logoColor=white"/>
-    
+
 <img alt="Git" src="https://img.shields.io/badge/git-678F53.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab-678F53.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     
 <img alt="GitHub" src="https://img.shields.io/badge/github-678F53.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-    
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab-678F53.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-678F53.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-    
+
 <img alt="Python" src="https://img.shields.io/badge/python-678F53.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    
+
 <img alt="Django" src="https://img.shields.io/badge/django-678F53.svg?style=for-the-badge&logo=django&logoColor=white"/>
-    
+
 <img alt="Canva" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-    
+
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-678F53.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-678F53.svg?style=for-the-badge&logo=PyCharm&logoColor=black"/>
@@ -118,22 +109,24 @@ LANGUAGES AND TOOLS
 <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-678F53.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
     
 <img alt="Atom" src="https://img.shields.io/badge/Atom-678F53.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+
+<img alt="Windows" src="https://img.shields.io/badge/Windows-678F53?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-678F53?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<img alt="Postman" src="https://img.shields.io/badge/Postman-678F53?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img alt="React" src="https://img.shields.io/badge/react-678F53.svg?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-678F53.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-678F53.svg?style=for-the-badge&logo=express&logoColor=white"/>
     
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-678F53.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-678F53.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-678F53.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-678F53?style=for-the-badge&logo=windows&logoColor=white" />
-    
-<img alt="IOS" src="https://img.shields.io/badge/iOS-678F53?style=for-the-badge&logo=ios&logoColor=white">
-    
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-678F53?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    
-<img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-678F53?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-    
-<img alt="Postman" src="https://img.shields.io/badge/Postman-678F53?style=for-the-badge&logo=postman&logoColor=white" />
     
 
 
