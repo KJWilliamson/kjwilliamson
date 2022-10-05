@@ -100,7 +100,7 @@ LANGUAGES AND TOOLS
 
 <img alt="Django" src="https://img.shields.io/badge/django-678F53.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
-<img alt="API" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="API" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=api&logoColor=white"/>
 
 <img alt="Canva" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
@@ -120,7 +120,7 @@ LANGUAGES AND TOOLS
 
 <img alt="React" src="https://img.shields.io/badge/react-678F53.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
-<img alt="Redux" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-678F53.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
