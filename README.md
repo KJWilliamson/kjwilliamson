@@ -182,13 +182,6 @@ EXAMPLES OF CLIENT WEBSITES
 
 <img src="https://user-images.githubusercontent.com/24884380/188712771-d7fbd7bd-3b0b-470d-bb70-5b2f392005d5.png" width="400" height="700"/> <img src="https://user-images.githubusercontent.com/24884380/188710396-db01828c-489b-4f13-87cc-5ad2d70ee8ac.jpg" width="400" height="700"/>
 
-<hr>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/24884380/193441336-311c5f93-6d0e-4056-aae9-b2b5078e463a.png" width="800" height="150" />
-
-
 
 
 <br>
