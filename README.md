@@ -100,9 +100,11 @@ LANGUAGES AND TOOLS
 
 <img alt="Django" src="https://img.shields.io/badge/django-678F53.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
+<img alt="API" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+
 <img alt="Canva" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-678F53.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-678F53.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-678F53.svg?style=for-the-badge&logo=PyCharm&logoColor=black"/>
     
@@ -117,6 +119,8 @@ LANGUAGES AND TOOLS
 <img alt="Postman" src="https://img.shields.io/badge/Postman-678F53?style=for-the-badge&logo=postman&logoColor=white" />
 
 <img alt="React" src="https://img.shields.io/badge/react-678F53.svg?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img alt="Redux" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-678F53.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
