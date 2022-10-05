@@ -23,7 +23,7 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 
 <hr>
 <br
-<h1>FIND ME ON THE WEB 🌎</h1>
+<h2>FIND ME ON THE WEB 🌎</h2>
 <br />
 <h1>PORTFOLIO & OTHER LINKS</h1>
 <!--  <a href="https://kjwilliamson.github.io/portfolio/">Portfolio Site</a>.  -->
@@ -156,7 +156,7 @@ PROJECTS
 *****COMMENTED OUT*******
 -->
 
-<h1>IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS</h1>
+<h2>IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS</h2>
 
 <section><a href="https://github.com/KJWilliamson/maze"><img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="800" height="250" /></a></section> 
 
