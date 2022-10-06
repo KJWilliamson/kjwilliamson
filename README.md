@@ -76,7 +76,7 @@ One solo project & three group projects from Kenzie Academy:
 
 <hr>
 
-LANGUAGES AND TOOLS
+LANGUAGES AND TOOLS I'VE USED
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-678F53.svg?style=for-the-badge&logo=html5&logoColor=white"/>
