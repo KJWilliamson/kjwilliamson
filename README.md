@@ -4,7 +4,7 @@
 hand waving gif
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> -->
 
-<h1>Hello, I'm Kamela <img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="35" height"35" /></h1>
+<h1>Hello, I'm Kamela <img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="45" height"45" /></h1>
 
 Bootcamp grad & self-taught developer who switched careers after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source. I LOVE fun, silly, creative projects that make people smile, laugh out loud, or scratch their head. I have a wide variety of interests ranging from programming, VR, & augmented reality, to AI & Robotics.
 <br>
@@ -16,10 +16,6 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 - 📚 Fun fact: I love hiking, traveling, reading books, listening to music, and watching movies with friends.
 <hr>
  In previous lives I have worked as an SEO & Admin Manager, Blog and Website Developer, and a Ghostwriter for client blogs and social media accounts.  View my resumé <a href="https://kamelawilliamson.netlify.app/about.html">here</a>
-<hr>
-<br>
-
-<img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="800" height="300" />
 
 <hr>
 <br
