@@ -76,7 +76,7 @@ One solo project & three group projects from Kenzie Academy:
 
 <hr>
 
-LANGUAGES AND TOOLS I'VE USED
+LANGUAGES AND TOOLS 
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-678F53.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -127,6 +127,11 @@ LANGUAGES AND TOOLS I'VE USED
 
 <img alt="React" src="https://img.shields.io/badge/react-678F53.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
+
+
+<!--
+******COMMENTED OUT*****
+
 <img alt="Redux" src="https://img.shields.io/badge/redux-678F53.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-678F53.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -138,7 +143,10 @@ LANGUAGES AND TOOLS I'VE USED
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-678F53.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-678F53.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    
+
+
+*******COMMENTED OUT*******
+-->
 
 
 </p>
