@@ -123,6 +123,8 @@ LANGUAGES AND TOOLS I'VE USED
 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-678F53?style=for-the-badge&logo=postman&logoColor=white" />
 
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-678F53.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+
 <img alt="React" src="https://img.shields.io/badge/react-678F53.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img alt="Redux" src="https://img.shields.io/badge/redux-678F53.svg?style=for-the-badge&logo=redux&logoColor=white"/>
