@@ -98,10 +98,6 @@ LANGUAGES AND TOOLS
     
 <img alt="GitHub" src="https://img.shields.io/badge/github-678F53.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img alt="Figma" src="https://img.shields.io/badge/figma-678F53.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img alt="Pug" src="https://img.shields.io/badge/pug-678F53.svg?style=for-the-badge&logo=pug&logoColor=white"/>
-
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-678F53.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 <img alt="Python" src="https://img.shields.io/badge/python-678F53.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -116,14 +112,18 @@ LANGUAGES AND TOOLS
 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-678F53?style=for-the-badge&logo=postman&logoColor=white" />
 
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-678F53.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-
 <img alt="React" src="https://img.shields.io/badge/react-678F53.svg?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img alt="Figma" src="https://img.shields.io/badge/figma-678F53.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-678F53.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 
 
 
 <!--
 ******COMMENTED OUT*****
+
+<img alt="Pug" src="https://img.shields.io/badge/pug-678F53.svg?style=for-the-badge&logo=pug&logoColor=white"/>
 
 <img alt="Atom" src="https://img.shields.io/badge/Atom-678F53.svg?style=for-the-badge&logo=atom&logoColor=white"/>
 
