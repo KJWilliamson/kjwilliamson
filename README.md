@@ -39,7 +39,10 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
 
 <hr>
+<br>
 
+<!--
+*****COMMENTED OUT****
 <h3>100Devs</h3>
 September 2022 - present
 <br>
@@ -66,7 +69,8 @@ Fullstack Web Development Certificate
 <br>
 A few examples: 
 <br>
-One solo project & three group projects from Kenzie Academy:
+
+One solo project & three group projects from Bootcamp:
 <br>
 <br>
 
@@ -74,9 +78,10 @@ One solo project & three group projects from Kenzie Academy:
 <br>
 <img src="https://user-images.githubusercontent.com/24884380/188702412-592344ae-8333-4ed6-960b-b74ec6517c9e.jpeg" width="400" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702426-7ac217e5-7d20-4665-8ddb-aaa147335fa8.jpeg" width="400" height="200"/>
 
+***COMMENTED OUT***
+-->
 
 
-<hr>
 
 LANGUAGES AND TOOLS 
 
@@ -93,8 +98,6 @@ LANGUAGES AND TOOLS
     
 <img alt="GitHub" src="https://img.shields.io/badge/github-678F53.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab-678F53.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
 <img alt="Figma" src="https://img.shields.io/badge/figma-678F53.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <img alt="Pug" src="https://img.shields.io/badge/pug-678F53.svg?style=for-the-badge&logo=pug&logoColor=white"/>
@@ -105,23 +108,11 @@ LANGUAGES AND TOOLS
 
 <img alt="Django" src="https://img.shields.io/badge/django-678F53.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
-<img alt="API" src="https://img.shields.io/badge/api-678F53.svg?style=for-the-badge&logo=api&logoColor=white"/>
-
 <img alt="Canva" src="https://img.shields.io/badge/Canva-678F53.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 <img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-678F53.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-678F53.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
-    
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-678F53.svg?style=for-the-badge&logo=PyCharm&logoColor=black"/>
-    
-<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-678F53.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
-    
-<img alt="Atom" src="https://img.shields.io/badge/Atom-678F53.svg?style=for-the-badge&logo=atom&logoColor=white"/>
-
-<img alt="Windows" src="https://img.shields.io/badge/Windows-678F53?style=for-the-badge&logo=windows&logoColor=white" />
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-678F53?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-678F53?style=for-the-badge&logo=postman&logoColor=white" />
 
@@ -133,6 +124,19 @@ LANGUAGES AND TOOLS
 
 <!--
 ******COMMENTED OUT*****
+
+<img alt="Atom" src="https://img.shields.io/badge/Atom-678F53.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-678F53.svg?style=for-the-badge&logo=PyCharm&logoColor=black"/>
+    
+<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-678F53.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab-678F53.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+<img alt="API" src="https://img.shields.io/badge/api-678F53.svg?style=for-the-badge&logo=api&logoColor=white"/>
+
+<img alt="Windows" src="https://img.shields.io/badge/Windows-678F53?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-678F53?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 <img alt="Redux" src="https://img.shields.io/badge/redux-678F53.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
