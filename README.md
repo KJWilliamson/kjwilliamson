@@ -118,7 +118,7 @@ LANGUAGES AND TOOLS
 
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-678F53.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 
-
+</p>
 
 <!--
 ******COMMENTED OUT*****
@@ -155,22 +155,20 @@ LANGUAGES AND TOOLS
 -->
 
 
-</p>
+<hr>
+
+One solo project & three group projects from Bootcamp:
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/24884380/188702375-612b60e1-b820-4cf8-b116-a07fb37d0a9d.jpg" width="400" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702404-08d43b83-455d-4b66-88be-a9c1445dba59.jpeg" width="400" height="200"/>
+<br>
+<img src="https://user-images.githubusercontent.com/24884380/188702412-592344ae-8333-4ed6-960b-b74ec6517c9e.jpeg" width="400" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702426-7ac217e5-7d20-4665-8ddb-aaa147335fa8.jpeg" width="400" height="200"/>
+
 <hr>
 
 
-<!--
-*****COMMENTED OUT*****
-PROJECTS
-<br />
-<br />
 
-🎪 <a href="https://clown-maze.netlify.app/">Maze</a> | 👻 <a href="https://javascript-halloween-maze.netlify.app/">Halloween Maze</a> | 📓 <a href="https://javascript-fun-todo-app.netlify.app/"> Todo Webapp</a> | 🔴 <a href="https://kjwilliamson.github.io/js-connect4/">Connect 4</a> | 🧠 <a href="https://js-tower-of-hanoi.netlify.app/"> Tower Of Hanoi</a> 
-⏳ | 🎱 <a href="https://jsmagic8ball.netlify.app/">Magic 8 Ball</a>🔮 | 🦇<a href="https://favoritescarymovie.netlify.app/?">Favorite Scary Movie</a>🧟‍♀️| 📚 <a href="https://random-banned-books.netlify.app/">Banned Book Cover Generator</a> | 📚<a href="https://random-literary-image.netlify.app/">Random Literary Image Quote</a> | 🎄<a href="https://favorite-christmas-movies.netlify.app/">What's your favorite Christmas🥛🍪 movie?</a> | <a href="https://pizza-silliness.netlify.app/">Favorite Pizza 🍕</a> | 🥠 <a href="https://js-fortune-cookie.netlify.app/">Fortune Cookie</a>  | 📺 <a href="https://css-tv.netlify.app/">CSS TV</a> 📺 | 🔮 <a href="https://shake-magic-8-ball.netlify.app/">Shake the Magic 8 Ball</a>| <a href="https://glow-clock.netlify.app/">Rainbow Clock</a> 🕑 | <a href="https://js-rock-paper-scissors-fun.netlify.app/">ROCK 🪨 PAPER 📄 SCISSORS ✂️</a> |🍸 <a href="https://favorite-cocktail.netlify.app/">Favorite Cocktail</a> | <a href="https://background-color-picker.netlify.app/">Background-color Picker</a> | <a href="https://ya-banned-books.netlify.app/">YA Banned Book Generator</a> | <a href="https://vent-simulator.netlify.app/">Vent Simulator</a> | <a href="https://askyesorno.netlify.app/">Ask A Yes Or No Question</a> | <a href="https://background-image-picker.netlify.app/">Background Image Picker</a> | <a href="https://background-colors.netlify.app/">Background Colors</a> | <a href='https://js-guessinggame.netlify.app/'>Guess The Number Game</a> | 🎃 <a href="https://countdown-halloween.netlify.app/">Halloween Countdown!</a> | 🎄<a href="https://a-christmas-countdown.netlify.app/">Christmas Countdown</a> | 🎃 <a href="https://halloween-background-picker.netlify.app/">Halloween Background Picker</a>
-<br >
-<hr>
-*****COMMENTED OUT*******
--->
 
 <h2>IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS</h2>
 
