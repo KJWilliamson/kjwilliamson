@@ -161,8 +161,8 @@ One solo project & three group projects from Bootcamp:
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/24884380/188702375-612b60e1-b820-4cf8-b116-a07fb37d0a9d.jpg" width="195" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702404-08d43b83-455d-4b66-88be-a9c1445dba59.jpeg" width="195" height="200"/>
-<img src="https://user-images.githubusercontent.com/24884380/188702412-592344ae-8333-4ed6-960b-b74ec6517c9e.jpeg" width="195" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702426-7ac217e5-7d20-4665-8ddb-aaa147335fa8.jpeg" width="195" height="200"/>
+<img src="https://user-images.githubusercontent.com/24884380/188702375-612b60e1-b820-4cf8-b116-a07fb37d0a9d.jpg" width="200" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702404-08d43b83-455d-4b66-88be-a9c1445dba59.jpeg" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/24884380/188702412-592344ae-8333-4ed6-960b-b74ec6517c9e.jpeg" width="200" height="200"/><img src="https://user-images.githubusercontent.com/24884380/188702426-7ac217e5-7d20-4665-8ddb-aaa147335fa8.jpeg" width="200" height="200"/>
 
 <hr>
 
@@ -171,27 +171,22 @@ One solo project & three group projects from Bootcamp:
 
 <h2>IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS</h2>
 
-<section><a href="https://github.com/KJWilliamson/maze"><img src="https://user-images.githubusercontent.com/24884380/188539260-e5f88262-0d77-45c6-96f5-102d42743736.jpg" width="800" height="250" /></a></section> 
 
-<section><a href="https://github.com/KJWilliamson/countdown-to-halloween"><img src="https://user-images.githubusercontent.com/24884380/193156120-38088b6a-083f-48a0-99ab-a416d4995604.jpg" width="800" height="250"/></a></section>
+<section><a href="https://github.com/KJWilliamson/magic8ball"><img src="https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg" width="400" height="250"/></a></section>
 
-<section><a href="https://github.com/KJWilliamson/fish-design-calculator"><img src="https://user-images.githubusercontent.com/24884380/188539247-ec68b32c-7274-4cca-b7c1-f715b07c622a.jpg" width="800" height="250"/></a></section>
+<section><a href="https://github.com/KJWilliamson/fortune-cookie"><img src="https://user-images.githubusercontent.com/24884380/188540419-0455bced-195b-4e77-ba49-da8f33270dd3.jpg" width="400" height="250"/></a></section>
 
-<section><a href="https://github.com/KJWilliamson/magic8ball"><img src="https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg" width="800" height="250"/></a></section>
+<section><a href="https://github.com/KJWilliamson/favorite-scary-movie"><img src="https://user-images.githubusercontent.com/24884380/188540585-e4e981bd-6084-4ae0-8ef5-3ca862c05dfd.jpg" width="400" height="250"/></a></section>   
 
-<section><a href="https://github.com/KJWilliamson/fortune-cookie"><img src="https://user-images.githubusercontent.com/24884380/188540419-0455bced-195b-4e77-ba49-da8f33270dd3.jpg" width="800" height="250"/></a></section>
+<section><a href="https://github.com/KJWilliamson/ya-banned-books-generator"><img src="https://user-images.githubusercontent.com/24884380/188540601-96ad2786-e0c0-4c98-acfb-4e7330f43cfc.jpg" width="400" height="250"/></a></section> 
 
-<section><a href="https://github.com/KJWilliamson/favorite-scary-movie"><img src="https://user-images.githubusercontent.com/24884380/188540585-e4e981bd-6084-4ae0-8ef5-3ca862c05dfd.jpg" width="800" height="250"/></a></section>   
+<section><a href="https://github.com/KJWilliamson/js-maze"><img src="https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg" width="400" height="250"/></a></section>
 
-<section><a href="https://github.com/KJWilliamson/ya-banned-books-generator"><img src="https://user-images.githubusercontent.com/24884380/188540601-96ad2786-e0c0-4c98-acfb-4e7330f43cfc.jpg" width="800" height="250"/></a></section> 
+<section><a href="https://github.com/KJWilliamson/background-colors"><img src="https://user-images.githubusercontent.com/24884380/188710050-1a777edf-e46d-47fa-a468-27a3dfe20530.jpg" width="400" height="250"/></a></section> 
 
-<section><a href="https://github.com/KJWilliamson/js-maze"><img src="https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg" width="800" height="250"/></a></section>
+<section><a href="https://github.com/KJWilliamson/rock-paper-scissors"><img src="https://user-images.githubusercontent.com/24884380/188710068-ef3345a8-6f0c-4a86-88a1-11fe761c182f.jpg" width="400" height="250"/></a></section>
 
-<section><a href="https://github.com/KJWilliamson/background-colors"><img src="https://user-images.githubusercontent.com/24884380/188710050-1a777edf-e46d-47fa-a468-27a3dfe20530.jpg" width="800" height="250"/></a></section> 
-
-<section><a href="https://github.com/KJWilliamson/rock-paper-scissors"><img src="https://user-images.githubusercontent.com/24884380/188710068-ef3345a8-6f0c-4a86-88a1-11fe761c182f.jpg" width="800" height="250"/></a></section>
-
-<section><a href="https://javascript-tower-of-hanoi.netlify.app/"><img src="https://user-images.githubusercontent.com/24884380/189988592-84403280-f29f-43ef-8933-94ee6bf12eed.jpg" width="800" height="250" /></a></section>
+<section><a href="https://javascript-tower-of-hanoi.netlify.app/"><img src="https://user-images.githubusercontent.com/24884380/189988592-84403280-f29f-43ef-8933-94ee6bf12eed.jpg" width="400" height="250" /></a></section>
 
 
 
