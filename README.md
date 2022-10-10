@@ -182,10 +182,6 @@ One solo project & three group projects from Bootcamp:
 
 <section><a href="https://github.com/KJWilliamson/js-maze"><img src="https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg" width="800" height="250"/></a></section>
 
-<section><a href="https://github.com/KJWilliamson/background-colors"><img src="https://user-images.githubusercontent.com/24884380/188710050-1a777edf-e46d-47fa-a468-27a3dfe20530.jpg" width="800" height="250"/></a></section> 
-
-<section><a href="https://github.com/KJWilliamson/rock-paper-scissors"><img src="https://user-images.githubusercontent.com/24884380/188710068-ef3345a8-6f0c-4a86-88a1-11fe761c182f.jpg" width="800" height="250"/></a></section>
-
 <section><a href="https://javascript-tower-of-hanoi.netlify.app/"><img src="https://user-images.githubusercontent.com/24884380/189988592-84403280-f29f-43ef-8933-94ee6bf12eed.jpg" width="800" height="250" /></a></section>
 
 
