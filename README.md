@@ -24,7 +24,7 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
  In previous lives I have worked as an SEO & Admin Manager, Blog and Website Developer, and a Ghostwriter for client blogs and social media accounts.  View my resumé <a href="https://kamelawilliamson.netlify.app/about.html">here</a>
 
 <hr>
-<h2>FIND ME ON THE WEB 🌎 PORTFOLIO & OTHER LINKS</h2>
+<h2>Find me on the webb 🌎 Portfolio & other links</h2>
 <br>
  ✨<a href="https://kamelawilliamson.netlify.app/index.html">Main Portfolio Site</a>✨ &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/codeandkombucha"><img src="https://user-images.githubusercontent.com/24884380/190008230-9c5ca93a-edd1-4b5d-b365-d518f6d3e252.png" width="25" height="25" /></a> <a href="https://www.linkedin.com/in/kamela-williamson-9903b55/"><img src="https://user-images.githubusercontent.com/24884380/190009141-db475fec-5f92-48e9-8396-a2e4ae520f0b.png" width="20" height="20" /></a> <a href="https://codepen.io/Kamelaw"><img src="https://user-images.githubusercontent.com/24884380/190009492-cf9501a6-3019-4c8b-b8bb-728d566bdafa.png" width="20" height="20" /></a> <a href="https://linktr.ee/kamelaw"><img src="https://user-images.githubusercontent.com/24884380/190010428-32542fe9-c9ce-4451-9f7d-e81b25253e7e.png" width="20" height="20" /></a> <a href="https://www.polywork.com/kamelaw?preview_profile=true"><img src="https://user-images.githubusercontent.com/24884380/190011120-f8a4058b-a01f-4e9d-870b-214914eaf2de.png" width="20" height="20" /></a>
@@ -75,7 +75,7 @@ One solo project & three group projects from Bootcamp:
 
 
 
-<h3>LANGUAGES AND TOOLS</h3> 
+<h3>Languages and tools</h3> 
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-678F53.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -161,7 +161,7 @@ One solo project & three group projects from Bootcamp:
 
 
 
-<h2>IMAGE LINKS FOR SOME OF MY WEBAPP PROJECTS</h2>
+<h2>Image links for some of my webapp projects</h2>
 
 
 <a href="https://github.com/KJWilliamson/magic8ball"><img src="https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg" width="400" height="250"/></a><a href="https://github.com/KJWilliamson/fortune-cookie"><img src="https://user-images.githubusercontent.com/24884380/188540419-0455bced-195b-4e77-ba49-da8f33270dd3.jpg" width="400" height="250"/></a>
@@ -177,7 +177,7 @@ One solo project & three group projects from Bootcamp:
 <br>
 <hr>
 
-EXAMPLES OF CLIENT WEBSITES
+Examples of client websites
 
 <img src="https://user-images.githubusercontent.com/24884380/188712771-d7fbd7bd-3b0b-470d-bb70-5b2f392005d5.png" width="400" height="700"/> <img src="https://user-images.githubusercontent.com/24884380/188710396-db01828c-489b-4f13-87cc-5ad2d70ee8ac.jpg" width="400" height="700"/>
 
