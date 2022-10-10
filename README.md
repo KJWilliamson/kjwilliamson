@@ -75,7 +75,7 @@ One solo project & three group projects from Bootcamp:
 
 
 
-LANGUAGES AND TOOLS 
+<h3>LANGUAGES AND TOOLS</h3> 
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-678F53.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -149,7 +149,7 @@ LANGUAGES AND TOOLS
 
 <hr>
 
-One solo project & three group projects from Bootcamp:
+<h3>One solo project & three group projects from Bootcamp: </h3>
 <br>
 <br>
 
