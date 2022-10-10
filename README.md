@@ -15,7 +15,7 @@ hand waving gif
 Bootcamp grad & self-taught developer who switched careers after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source. I LOVE fun, silly, whimsical projects that make people smile, laugh out loud, or scratch their head. I have a wide variety of interests ranging from programming, VR, & augmented reality, to AI & Robotics.
 <br>
 <hr>
-- 👯 I’m looking to collaborate on beginner front-end web development projects
+- 👯 I’m looking to collaborate on front-end and full stack web development projects.
 <br>
 - 🌱 I'm currently reviewing javascript and diving into React, Node, MongoDB and Express
 <br>
