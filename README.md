@@ -26,7 +26,7 @@ Bootcamp grad & self-taught developer who switched careers after falling in love
 <hr>
 <h2>Find me on the web 🌎 Portfolio & other links</h2>
 <br>
- ✨<a href="https://kamelawilliamson.netlify.app/index.html" style="color:#b39aab;">Main Portfolio Site</a></strong>✨ &nbsp;&nbsp;&nbsp;&nbsp;
+ ✨<a href="https://kamelawilliamson.netlify.app/index.html" style="color:#b39aab">Main Portfolio Site</a></strong>✨ &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/codeandkombucha"><img src="https://user-images.githubusercontent.com/24884380/190008230-9c5ca93a-edd1-4b5d-b365-d518f6d3e252.png" width="25" height="25" /></a> <a href="https://www.linkedin.com/in/kamela-williamson-9903b55/"><img src="https://user-images.githubusercontent.com/24884380/190009141-db475fec-5f92-48e9-8396-a2e4ae520f0b.png" width="20" height="20" /></a> <a href="https://codepen.io/Kamelaw"><img src="https://user-images.githubusercontent.com/24884380/190009492-cf9501a6-3019-4c8b-b8bb-728d566bdafa.png" width="20" height="20" /></a> <a href="https://linktr.ee/kamelaw"><img src="https://user-images.githubusercontent.com/24884380/190010428-32542fe9-c9ce-4451-9f7d-e81b25253e7e.png" width="20" height="20" /></a> <a href="https://www.polywork.com/kamelaw?preview_profile=true"><img src="https://user-images.githubusercontent.com/24884380/190011120-f8a4058b-a01f-4e9d-870b-214914eaf2de.png" width="20" height="20" /></a>
 &nbsp;&nbsp;&nbsp;    Spotify <a href="https://open.spotify.com/playlist/3EgUb36D6Wy92R5X4hXuEk?si=0744a523d4504ad7">Playing 🎧</a> 🎃🧛👻
 
