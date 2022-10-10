@@ -175,6 +175,7 @@ One solo project & three group projects from Bootcamp:
 <section><a href="https://github.com/KJWilliamson/magic8ball"><img src="https://user-images.githubusercontent.com/24884380/188540297-1b115929-9d72-4910-b0e6-6211a464467c.jpg" width="400" height="250"/></a></section>
 
 <section><a href="https://github.com/KJWilliamson/fortune-cookie"><img src="https://user-images.githubusercontent.com/24884380/188540419-0455bced-195b-4e77-ba49-da8f33270dd3.jpg" width="400" height="250"/></a></section>
+<br>
 
 <section><a href="https://github.com/KJWilliamson/favorite-scary-movie"><img src="https://user-images.githubusercontent.com/24884380/188540585-e4e981bd-6084-4ae0-8ef5-3ca862c05dfd.jpg" width="400" height="250"/></a></section>   
 
