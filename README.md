@@ -88,7 +88,7 @@ One solo project & three group projects from Bootcamp:
 <h3>Languages and tools</h3> 
 
 <p>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-678F53.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     
 <img alt="CSS3" src="https://img.shields.io/badge/css3-678F53.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     
