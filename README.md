@@ -119,36 +119,21 @@ One solo project & three group projects from Bootcamp:
 <img alt="Figma" src="https://img.shields.io/badge/figma-orange.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-orange.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+ 
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-orange.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ 
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-orange.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
 </p>
 
 <!--
 ******COMMENTED OUT*****
 
-<img alt="Pug" src="https://img.shields.io/badge/pug-678F53.svg?style=for-the-badge&logo=pug&logoColor=white"/>
-
-<img alt="Atom" src="https://img.shields.io/badge/Atom-678F53.svg?style=for-the-badge&logo=atom&logoColor=white"/>
-
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-678F53.svg?style=for-the-badge&logo=PyCharm&logoColor=black"/>
-    
-<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-678F53.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab-678F53.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-<img alt="API" src="https://img.shields.io/badge/api-678F53.svg?style=for-the-badge&logo=api&logoColor=white"/>
-
-<img alt="Windows" src="https://img.shields.io/badge/Windows-678F53?style=for-the-badge&logo=windows&logoColor=white" />
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-678F53?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
 <img alt="Redux" src="https://img.shields.io/badge/redux-678F53.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-678F53.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-678F53.svg?style=for-the-badge&logo=express&logoColor=white"/>
     
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-678F53.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-678F53.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-678F53.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
