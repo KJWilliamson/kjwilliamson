@@ -77,41 +77,41 @@ One solo project & three group projects from Bootcamp:
 <h3>Languages and tools</h3> 
 
 <p>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-gold.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     
-<img alt="CSS3" src="https://img.shields.io/badge/css3-orange.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-gold.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-orange.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-gold.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
     
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-orange.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-gold.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-<img alt="Git" src="https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-gold.svg?style=for-the-badge&logo=git&logoColor=white"/>
     
-<img alt="GitHub" src="https://img.shields.io/badge/github-orange.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-gold.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-orange.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-gold.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-<img alt="Python" src="https://img.shields.io/badge/python-orange.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-gold.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img alt="Django" src="https://img.shields.io/badge/django-orange.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/django-gold.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
-<img alt="Canva" src="https://img.shields.io/badge/Canva-orange.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-gold.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
-<img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-orange.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-gold.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<img alt="Netlify" src="https://img.shields.io/badge/netlify-orange.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img alt="Netlify" src="https://img.shields.io/badge/netlify-gold.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-gold?style=for-the-badge&logo=postman&logoColor=white" />
 
-<img alt="React" src="https://img.shields.io/badge/react-orange.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-gold.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
-<img alt="Figma" src="https://img.shields.io/badge/figma-orange.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-gold.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-orange.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-gold.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
  
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-orange.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-gold.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
  
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-orange.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-gold.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
 </p>
 
