@@ -80,7 +80,7 @@ One solo project & three group projects from Bootcamp:
     
 <img alt="CSS3" src="https://img.shields.io/badge/css3-silver.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-#9c3848.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-9c3848.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
     
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-green.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
@@ -88,7 +88,7 @@ One solo project & three group projects from Bootcamp:
     
 <img alt="GitHub" src="https://img.shields.io/badge/github-silver.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-#9c3848.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-9c3848.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 <img alt="Python" src="https://img.shields.io/badge/python-green.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -96,7 +96,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="Canva" src="https://img.shields.io/badge/Canva-silver.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
-<img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-#9c3848.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-9c3848.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-green.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
 
@@ -104,7 +104,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="React" src="https://img.shields.io/badge/react-silver.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
-<img alt="Figma" src="https://img.shields.io/badge/figma-#9c3848.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-9c3848.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-green.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
  
