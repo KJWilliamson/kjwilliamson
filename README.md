@@ -78,7 +78,7 @@ One solo project & three group projects from Bootcamp:
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-c3d898.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     
-<img alt="CSS3" src="https://img.shields.io/badge/css3-7ea16b.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-ff85ca.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-70161e.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
     
@@ -86,7 +86,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="Git" src="https://img.shields.io/badge/git-c3d898.svg?style=for-the-badge&logo=git&logoColor=white"/>
     
-<img alt="GitHub" src="https://img.shields.io/badge/github-7ea16b.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-ff85ca.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-70161e.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
@@ -94,7 +94,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="Django" src="https://img.shields.io/badge/django-c3d898.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
-<img alt="Canva" src="https://img.shields.io/badge/Canva-7ea16b.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-ff85ca.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 <img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-70161e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
@@ -102,7 +102,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-c3d898?style=for-the-badge&logo=postman&logoColor=white" />
 
-<img alt="React" src="https://img.shields.io/badge/react-7ea16b.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-ff85ca.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img alt="Figma" src="https://img.shields.io/badge/figma-70161e.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
@@ -110,7 +110,7 @@ One solo project & three group projects from Bootcamp:
  
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-c3d898.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
  
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-7ea16b.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-ff85ca.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
 </p>
 
