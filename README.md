@@ -82,7 +82,7 @@ One solo project & three group projects from Bootcamp:
     
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-ba007a.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
     
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-034c3c.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-6634ff.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <img alt="Git" src="https://img.shields.io/badge/git-c3d898.svg?style=for-the-badge&logo=git&logoColor=white"/>
     
@@ -90,7 +90,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-ba007a.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-<img alt="Python" src="https://img.shields.io/badge/python-034c3c.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-6634ff.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img alt="Django" src="https://img.shields.io/badge/django-c3d898.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
@@ -98,7 +98,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-ba007a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<img alt="Netlify" src="https://img.shields.io/badge/netlify-034c3c.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img alt="Netlify" src="https://img.shields.io/badge/netlify-6634ff.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-c3d898?style=for-the-badge&logo=postman&logoColor=white" />
 
@@ -106,7 +106,7 @@ One solo project & three group projects from Bootcamp:
 
 <img alt="Figma" src="https://img.shields.io/badge/figma-ba007a.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-034c3c.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-6634ff.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
  
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-c3d898.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
  
