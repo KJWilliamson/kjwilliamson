@@ -3,14 +3,6 @@
 <img src="https://user-images.githubusercontent.com/24884380/209494875-1f14b464-376f-4ab3-9539-00c42b4c6104.gif" width="800" height="400" />
 
 
-<!-- <img src="https://user-images.githubusercontent.com/24884380/208265963-a38ffb4f-f728-4175-9079-3ae42fb0788a.gif" width="800" height="400" /> -->
-
-<!-- <img src="https://user-images.githubusercontent.com/24884380/208264996-9fa552b0-e26a-4b32-a66b-c6a1e07c0410.gif" width="800" height="350" /> -->
-
-
-<!-- 
-hand waving gif
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> -->
 
 
 <h1>Hello, I'm Kamela <img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="35" height"35" /></h1>
