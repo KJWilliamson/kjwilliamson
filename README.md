@@ -1,9 +1,8 @@
 
 
-<!-- <img src="https://user-images.githubusercontent.com/24884380/209494875-1f14b464-376f-4ab3-9539-00c42b4c6104.gif" width="800" height="400" /> -->
+<img src="https://user-images.githubusercontent.com/24884380/211472791-1b2edf8d-a31f-4b49-9aad-16157b5651d3.gif" width="800" height="400" />
 
 
-<img src="https://user-images.githubusercontent.com/24884380/210159606-c19a6e66-5556-4ff4-9a12-7b82585e2282.gif" width="800" height="400" />
 
 
 
@@ -14,6 +13,7 @@ Bootcamp grad & self-taught developer pivoting to Software Engineering after fal
 <br>
 <hr>
 - 👯 I’m looking to collaborate on front-end and full stack web development projects.
+- 👯 Interested in contributing to open source.
 <br>
 - 🌱 I'm currently reviewing javascript & diving into Algorithms and Data Structures
 <!-- - and building with into React, Node, MongoDB and Express -->
