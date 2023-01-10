@@ -1,6 +1,6 @@
 
 
-<img src="https://user-images.githubusercontent.com/24884380/211472791-1b2edf8d-a31f-4b49-9aad-16157b5651d3.gif" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/24884380/211472791-1b2edf8d-a31f-4b49-9aad-16157b5651d3.gif" width="500" height="400" />
 
 
 
