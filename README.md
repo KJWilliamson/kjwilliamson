@@ -15,7 +15,8 @@ Bootcamp grad & self-taught developer pivoting to Software Engineering after fal
 <hr>
 - 👯 I’m looking to collaborate on front-end and full stack web development projects.
 <br>
-- 🌱 I'm currently reviewing javascript and diving into React, Node, MongoDB and Express
+- 🌱 I'm currently reviewing javascript & diving into Algorithms and Data Structures
+<!-- - and building with into React, Node, MongoDB and Express -->
 <br>
 - 📚 Fun fact: I love hiking, traveling, reading books, listening to music, and watching movies with friends.
 <hr>
