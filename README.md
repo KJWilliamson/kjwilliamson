@@ -13,6 +13,7 @@ Bootcamp grad & self-taught developer pivoting to Software Engineering after fal
 <br>
 <hr>
 - 👯 I’m looking to collaborate on front-end and full stack web development projects.
+- <br >
 - 👯 Interested in contributing to open source.
 <br>
 - 🌱 I'm currently reviewing javascript & diving into Algorithms and Data Structures
