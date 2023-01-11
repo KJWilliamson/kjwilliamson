@@ -11,11 +11,11 @@
 Bootcamp grad & self-taught developer pivoting to Software Engineering after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source. I LOVE fun, silly, whimsical projects that make people smile, laugh out loud, or scratch their head. I have a wide variety of interests ranging from programming, VR, & augmented reality, to AI & Robotics.
 <br>
 <hr>
-- 👯 I’m looking to collaborate on front-end and full stack web development projects.
+- 👥 I’m looking to collaborate on front-end and full stack web development projects.
 - <br >
 - 👯 Interested in contributing to open source.
 <br>
-- 🌱 I'm currently reviewing javascript & diving into Algorithms and Data Structures
+- 🌟 I'm currently reviewing javascript & diving into Algorithms and Data Structures
 <!-- - and building with into React, Node, MongoDB and Express -->
 <br>
 - 📚 Fun fact: I love hiking, traveling, reading books, listening to music, and watching movies with friends.
