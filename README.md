@@ -19,7 +19,7 @@ Bootcamp grad & self-taught developer pivoting to Software Engineering after fal
 <br>
 - 📚 Fun fact: I love hiking, traveling, reading books, listening to music, and watching movies with friends.
 <hr>
- In previous lives I have worked in the Real Estate Industry as an SEO & Admin Manager, Blog and Website Developer, and a Ghostwriter for client blogs and social media accounts and in the Healthcare Industry I specialized in user benefits.  View my resumé <a href="https://kamelawilliamson.netlify.app/about.html">here</a>
+ In previous lives I have worked in the Real Estate Industry as an SEO & Admin Manager, Blog and Website Developer, and a Ghostwriter for client blogs and social media accounts. View my resumé <a href="https://kamelawilliamson.netlify.app/about.html">here</a>
 
 <hr>
 <h2>Find me on the web 🌎 Portfolio & other links</h2>
