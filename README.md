@@ -7,7 +7,7 @@
 
 <h1>Hello, I'm Kamela <img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="35" height"35" /></h1>
 
-Bootcamp grad & self-taught developer pivoting to Software Engineering after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source. I LOVE fun, silly, whimsical projects that make people smile, laugh out loud, or scratch their head. I have a wide variety of interests ranging from programming, VR, & augmented reality, to AI & Robotics.
+Bootcamp grad & self-taught developer pivoting to Software Engineering after falling in love with programming. I’m currently studying Javascript and looking to contribute to open source. I love fun, silly, whimsical projects that make people smile.
 <br>
 <hr>
 - 👥 I’m looking to collaborate on front-end and full stack web development projects.
