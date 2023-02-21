@@ -171,7 +171,7 @@ One solo project & three group projects from Bootcamp:
 <a href="https://github.com/KJWilliamson/favorite-scary-movie"><img src="https://user-images.githubusercontent.com/24884380/188540585-e4e981bd-6084-4ae0-8ef5-3ca862c05dfd.jpg" width="400" height="250"/></a><a href="https://github.com/KJWilliamson/ya-banned-books-generator"><img src="https://user-images.githubusercontent.com/24884380/188540601-96ad2786-e0c0-4c98-acfb-4e7330f43cfc.jpg" width="400" height="250"/></a>
 <br>
 
-<a href="https://github.com/KJWilliamson/js-maze"><img src="https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg" width="400" height="250"/></a> <video src="https://user-images.githubusercontent.com/24884380/220225800-7f853597-4eb7-461e-80c5-cedcef588aaf.mp4" width="400" height="250"</video>
+<a href="https://github.com/KJWilliamson/js-maze"><img src="https://user-images.githubusercontent.com/24884380/188540699-434496e1-7093-4c21-a729-1a6d9b66b369.jpg" width="400" height="250"/></a> <video src="https://user-images.githubusercontent.com/24884380/220225800-7f853597-4eb7-461e-80c5-cedcef588aaf.mp4" width="400" height="250" />
 
 
 
