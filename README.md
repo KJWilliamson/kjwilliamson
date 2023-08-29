@@ -14,7 +14,7 @@ Bootcamp grad & self-taught developer pivoting to Software Engineering after fal
 - <br >
 - 💻 Interested in contributing to open source.
 <br>
-- 🌟 I'm currently reviewing javascript & diving into Algorithms and Data Structures
+- 🌟 I'm currently building with Javascript and React & diving into Algorithms and Data Structures
 <!-- - and building with into React, Node, MongoDB and Express -->
 <br>
 - 📚 Fun fact: I love hiking, traveling, reading books, listening to music, and watching movies with friends.
