@@ -1,6 +1,8 @@
-
+<!-- 
 <img src="https://user-images.githubusercontent.com/24884380/211737508-6e01c5d1-da01-4d04-b622-7dd49e7e34ea.gif" width="800" height="300" />
+-->
 
+<img src="https://github.com/KJWilliamson/kjwilliamson/assets/24884380/4b5bd498-7eca-4808-9baf-0f4edd570da9" width="800" height="300" />
 
 
 
