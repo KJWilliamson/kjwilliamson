@@ -199,7 +199,7 @@ One solo project & three group projects from Bootcamp:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=merko&count_private=true)![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson)](https://github.com/KJWilliamson/github-readme-stats))  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWilliamson&show_icons=true&theme=merko&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWilliamson&langs_count=8)
 <br>
 <hr>
 
