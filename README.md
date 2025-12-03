@@ -8,7 +8,7 @@
 
 <h1>Hello, I'm Kamela <img src="https://user-images.githubusercontent.com/24884380/190024340-ed537b96-a875-46a3-af98-7e0bb44da6ed.gif" width="35" height"35" /></h1>
 
-Pivoting to Computer Science after falling in love with programming. I’m constantly learning, building, and expanding my knowledge base. and looking to contribute to open source. I love fun, silly, whimsical projects that make people smile.
+Pivoting to Computer Science after falling in love with programming. I’m constantly learning, building, and expanding my knowledge base. Looking to contribute to open source. I love fun, silly, whimsical projects that make people smile.
 <br>
 <hr>
 - 👥 I’m looking to collaborate on front-end and full stack web development projects.
