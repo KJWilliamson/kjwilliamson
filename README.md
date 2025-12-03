@@ -15,7 +15,7 @@ Pivoting to Computer Science after falling in love with programming. I’m const
 - <br >
 - 💻 Interested in contributing to open source.
 <br>
-- 🌟 I'm currently building with Javascript and React & diving into Algorithms and Data Structures
+- 🌟 I'm currently reviewing the basics and diving into Algorithms and Data Structures
 <!-- - and building with into React, Node, MongoDB and Express -->
 <br>
 - 📚 Fun fact: I love hiking, traveling, reading books, listening to music, and watching movies with friends.
